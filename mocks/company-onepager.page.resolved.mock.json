@@ -1,0 +1,730 @@
+{
+  "skip": 0,
+  "count": 1,
+  "more": false,
+  "objs": [
+    {
+      "displayName": "Company-Onepager",
+      "displayIcon": 62,
+      "meta": {
+        "id": 2126513,
+        "guid": "770f8245-ba60-49f4-a61d-1ac5d0625979",
+        "typeRef": 2101021,
+        "type": "webPage",
+        "lastTransaction": 10316,
+        "lastModified": "2022-10-24T08:24:53.7256594Z",
+        "deleted": false,
+        "etag": "xCCR4Sv48ewUYqcOmMSm9w"
+      },
+      "props": {
+        "moduleRefs": [
+          2126516,
+          2126515,
+          2126517,
+          2126542,
+          2137733,
+          2126523,
+          2126521,
+          2126522,
+          2137738,
+          2137739,
+          2123775,
+          2137741,
+          2137740,
+          2137742,
+          2137731,
+          2137743
+        ],
+        "attributeName": "Company-Onepager",
+        "navigationTitle": "Company Onepager",
+        "seo_description": "At GRID Industries, we have a lot of great ideas for even better products. With our product portfolio, we help people manage their everyday lives better.",
+        "seo_keywords": [
+          "GRID Industries"
+        ]
+      }
+    }
+  ],
+  "refs": [
+    {
+      "displayName": "Company Onepager Product Portfolio",
+      "displayIcon": 89,
+      "meta": {
+        "id": 2126517,
+        "guid": "a95f8ff8-29b4-4f28-895e-a6023ae61cde",
+        "typeRef": 2101192,
+        "type": "teaserModule",
+        "lastTransaction": 8875,
+        "lastModified": "2022-08-31T08:23:53.0700896Z",
+        "deleted": false,
+        "etag": "KoYvAKJdd87Mrh9Ju7WhIA"
+      },
+      "props": {
+        "teaserItemRefs": [
+          2126518,
+          2126520,
+          2126519
+        ],
+        "attributeName": "Company Onepager Product Portfolio"
+      }
+    },
+    {
+      "displayName": "Product Features Details",
+      "displayIcon": 55,
+      "meta": {
+        "id": 2126542,
+        "guid": "3954532a-4b1a-41e0-bf27-1a599a347462",
+        "typeRef": 2100984,
+        "type": "accordionModule",
+        "lastTransaction": 8876,
+        "lastModified": "2022-08-31T08:24:25.8824248Z",
+        "deleted": false,
+        "etag": "8ghaBDXjkN3-f_rQ5zw-Gw"
+      },
+      "props": {
+        "accordionItemRefs": [
+          2126523,
+          2126521,
+          2126522
+        ],
+        "moduleSize": "large",
+        "attributeName": "Product Features Details",
+        "title": "Our product categories in detail"
+      }
+    },
+    {
+      "displayName": "Company Onepager Opener",
+      "displayIcon": 86,
+      "meta": {
+        "id": 2126515,
+        "guid": "ccd52f5c-c85b-4079-9d7c-2f0d0ab725e1",
+        "typeRef": 2101182,
+        "type": "parallaxImageModule",
+        "lastTransaction": 9895,
+        "lastModified": "2022-09-16T07:37:30.1277824Z",
+        "deleted": false,
+        "etag": "BjBpgZJnJtEaYYblxmWYsA"
+      },
+      "props": {
+        "imageRef": 2137707,
+        "title": "GReat IDeas for a better World!",
+        "attributeName": "Company Onepager Opener"
+      }
+    },
+    {
+      "displayName": "Company Product Category Furniture",
+      "displayIcon": 57,
+      "meta": {
+        "id": 2126523,
+        "guid": "7d08f32b-6d63-49ce-afdc-bd849245bfd2",
+        "typeRef": 2100992,
+        "type": "mediaTextModule",
+        "lastTransaction": 10050,
+        "lastModified": "2022-09-17T19:58:15.7104839Z",
+        "deleted": false,
+        "etag": "o_4cHlAYvHI1LdKrA6GELQ"
+      },
+      "props": {
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>The first evidence of furniture comes from the Pharaonic period and from finds from Akrotiri (Santorini) from the time around 1500 BC. From ancient Egypt is known a highly developed furniture carpentry. Finds of tables, thrones and couches from this period show knowledge in turning, veneering, inlaying and painting. Famous pieces come from the tomb of Tutanchamun from the 14th century B.C. Ancient Greek houses were equipped with chairs, stools, tables, beds, chests, chests of drawers and couches.</p><p>A special place among the pieces of furniture is occupied by the wardrobe. Until the end of the Middle Ages it was hardly used, except for storing clothes. Other belongings were stored, for example, on shelves or in chests. Only gradually did the wardrobe find its way into more rooms in all strata of society.</p></div>"
+        },
+        "imageRef": 2137723,
+        "moduleSize": "large",
+        "reverse": false,
+        "attributeName": "Company Product Category Furniture",
+        "title": "Furniture"
+      }
+    },
+    {
+      "displayName": "Company Product Category Lights",
+      "displayIcon": 57,
+      "meta": {
+        "id": 2126521,
+        "guid": "691a055b-6502-49c1-b2a7-3773f5dd83da",
+        "typeRef": 2100992,
+        "type": "mediaTextModule",
+        "lastTransaction": 10051,
+        "lastModified": "2022-09-17T19:59:04.6625922Z",
+        "deleted": false,
+        "etag": "g1IexpC0FK6HopmcDLfpbQ"
+      },
+      "props": {
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Luminaires come in various designs such as ceiling luminaires (as ceiling arches and ceiling crowns), wall luminaires (as beam luminaires), table luminaires (such as desk luminaires), floor luminaires, street luminaires. They can be fixed or mobile. They can be powered electrically from the mains, with accumulators or with batteries, but also with gas.</p><p>Reflectors (sometimes in combination with optical lens systems) are used in high-quality luminaires to direct the light emitted by the lamp as precisely as possible onto the surfaces to be illuminated, thus reducing the energy consumption of lighting systems. Good cooling of the ballasts is also important, as this also reduces power consumption and significantly extends the life expectancy of the ballasts. The efficiency of lamps is also temperature-dependent, so a luminaire should cool (by means of vents) or keep warm (by means of closed luminaires) the lamps used, depending on requirements.</p><p> </p></div>"
+        },
+        "reverse": true,
+        "imageRef": 2127034,
+        "title": "Lights",
+        "attributeName": "Company Product Category Lights"
+      }
+    },
+    {
+      "displayName": "Company Product Category Plants",
+      "displayIcon": 57,
+      "meta": {
+        "id": 2126522,
+        "guid": "a0987dcb-9741-4fc7-ad5d-9c5acad79f13",
+        "typeRef": 2100992,
+        "type": "mediaTextModule",
+        "lastTransaction": 10053,
+        "lastModified": "2022-09-17T20:00:38.6921541Z",
+        "deleted": false,
+        "etag": "051NxCi-FNUalqrEhstZUg"
+      },
+      "props": {
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Suitable as houseplants are species that are able to survive indoors due to their adaptation to the climate of their natural vegetation habitat. Keeping and care requirements of the corresponding species or variety - for example, concerning temperature, light, water supply and other factors - must be observed.</p><p>However, if houseplants need higher humidity, this is helped by spraying with water (atomization, misting) locally at the place of placement.</p><p>Houseplants have an important meaning for the living space of humans. They bind pollutants from the air, such as formaldehyde, toluene, ammonia, partially convert them into carbon compounds and thus \"filter\" the living air. In this context, scientific experiments were undertaken by NASA, comparing hermetically sealed rooms with and without indoor plants.</p></div>"
+        },
+        "imageRef": 2137724,
+        "reverse": false,
+        "title": "Plants",
+        "attributeName": "Company Product Category Plants"
+      }
+    },
+    {
+      "displayName": "Company Onepager Intro Text",
+      "displayIcon": 56,
+      "meta": {
+        "id": 2126516,
+        "guid": "8e51c443-9e86-4fbf-ba7e-137b66981f0d",
+        "typeRef": 2100988,
+        "type": "textModule",
+        "lastTransaction": 10054,
+        "lastModified": "2022-09-17T20:02:31.768697Z",
+        "deleted": false,
+        "etag": "AatL9xQdf-qoPCugnpHeUg"
+      },
+      "props": {
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>At GRID Industries, we have a whole lot of great ideas for even better products. With our product portfolio, we help people manage their everyday lives better. Be it with our nifty indoor plants, to fancy designer furniture. There's nothing we can't think of as a product.</p><p>There is still a belief that placing plants in the bedroom is potentially harmful to health. The reason for this is oxygen consumption and the accumulation of carbon dioxide during the night due to the plant's metabolism. In fact, a plant also consumes oxygen, but this happens continuously, with oxygen production coming to a halt at night due to the lack of light. In the case of many plants in a small space, this conversion can lead to a measurable effect during the dark period, but this can only cause discomfort in some people.</p></div>"
+        },
+        "moduleSize": "large",
+        "title": "GRID Industries - The ideas factory",
+        "attributeName": "Company Onepager Intro Text"
+      }
+    },
+    {
+      "displayName": "furniture",
+      "displayIcon": 86,
+      "meta": {
+        "id": 2137733,
+        "guid": "1ae219ef-1de3-44a3-8e51-9f83aaad9eef",
+        "typeRef": 2101182,
+        "type": "parallaxImageModule",
+        "lastTransaction": 10078,
+        "lastModified": "2022-09-17T20:33:20.6204123Z",
+        "deleted": false,
+        "etag": "sAzsZyw35Uc4-10brchZlg"
+      },
+      "props": {
+        "title": " plants in a small space",
+        "imageRef": 2137732,
+        "attributeName": "furniture"
+      }
+    },
+    {
+      "displayName": "Little research on standards",
+      "displayIcon": 78,
+      "meta": {
+        "id": 2123775,
+        "guid": "e9a8cb74-0fb1-4df6-b746-43fe67091a62",
+        "typeRef": 2101136,
+        "type": "chartModule",
+        "lastTransaction": 10085,
+        "lastModified": "2022-09-17T20:35:54.4146653Z",
+        "deleted": false,
+        "etag": "M7mrGqBUAshqcK9ySBXYsg"
+      },
+      "props": {
+        "chartItemRefs": [
+          2123776,
+          2123777,
+          2123778,
+          2123779
+        ],
+        "moduleSize": "medium",
+        "attributeName": "Little research on standards",
+        "chartType": "pie"
+      }
+    },
+    {
+      "displayName": "ZoomIn",
+      "displayIcon": 86,
+      "meta": {
+        "id": 2137738,
+        "guid": "a6bb7aba-39c6-405d-801b-dd51d6c7c9a9",
+        "typeRef": 2101182,
+        "type": "parallaxImageModule",
+        "lastTransaction": 10103,
+        "lastModified": "2022-09-17T20:54:27.0877307Z",
+        "deleted": false,
+        "etag": "XF8bko-3r-USUU5c7W8kmQ"
+      },
+      "props": {
+        "imageRef": 2137737,
+        "attributeName": "ZoomIn"
+      }
+    },
+    {
+      "displayName": "Picturegallery",
+      "displayIcon": 56,
+      "meta": {
+        "id": 2137742,
+        "guid": "f65e7df8-cad6-4553-9c65-2a1d96a5e405",
+        "typeRef": 2100988,
+        "type": "textModule",
+        "lastTransaction": 10153,
+        "lastModified": "2022-09-19T12:01:56.896281Z",
+        "deleted": false,
+        "etag": "4262tnZZbMrg4dNKXCPR1A"
+      },
+      "props": {
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>The gallery is suitable for arranging several images in a table or for offering a sequence of images that can be scrolled through with a mouse click.</p><p>A separate section Images, Photos or Gallery should be omitted in most cases. The reader will recognize that it is a gallery of images even without the headline. Galleries should usually be limited to up to four images.</p><p>Photosynthetically active radiation (PAR) designates the spectral range (wave band) of solar radiation from 400 to 700 nanometers that photosynthetic organisms are able to use in the process of photosynthesis. This spectral region corresponds more or less with the range of light visible to the human eye. Photons at shorter wavelengths tend to be so energetic that they can be damaging to cells and tissues, but are mostly filtered out by the ozone layer in the stratosphere. Photons at longer wavelengths do not carry enough energy to allow photosynthesis to take place.</p><p>In land plants, leaves absorb mostly red and blue light in the first layer of photosynthetic cells because of chlorophyll absorbance. Green light, however, penetrates deeper into the leaf interior and can drive photosynthesis more efficiently than red light. Because green and yellow wavelengths can transmit through chlorophyll and the entire leaf itself, they play a crucial role in growth beneath the plant canopy.</p></div>"
+        },
+        "title": "Picturegallery",
+        "moduleSize": "medium",
+        "attributeName": "Picturegallery"
+      }
+    },
+    {
+      "displayName": "Plants",
+      "displayIcon": 56,
+      "meta": {
+        "id": 2137743,
+        "guid": "8bd01431-fad8-4119-b3cf-d11f1f5bd881",
+        "typeRef": 2100988,
+        "type": "textModule",
+        "lastTransaction": 10156,
+        "lastModified": "2022-09-19T12:03:15.207846Z",
+        "deleted": false,
+        "etag": "uRv9a64wCVBAe6wlcKenXA"
+      },
+      "props": {
+        "moduleSize": "large",
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Most plants are multicellular organisms. Green plants obtain most of their energy from sunlight via photosynthesis by primary chloroplasts that are derived from endosymbiosis with cyanobacteria. Their chloroplasts contain chlorophylls a and b, which gives them their green color. Some plants are parasitic or mycotrophic and have lost the ability to produce normal amounts of chlorophyll or to photosynthesize, but still have flowers, fruits, and seeds. Plants are characterized by sexual reproduction and alternation of generations, although asexual reproduction is also common.</p><p>There are about 320,000 known species of plants, of which the great majority, some 260–290 thousand, produce seeds. Green plants provide a substantial proportion of the world's molecular oxygen, and are the basis of most of Earth's ecosystems. Plants that produce grain, fruit, and vegetables also form basic human foods and have been domesticated for millennia. Plants have many cultural and other uses, as ornaments, building materials, writing material and, in great variety, they have been the source of medicines and psychoactive drugs. The scientific study of plants is known as botany, a branch of biology.</p></div>"
+        },
+        "title": "Plants",
+        "attributeName": "Plants"
+      }
+    },
+    {
+      "displayName": "Pie Chart",
+      "displayIcon": 56,
+      "meta": {
+        "id": 2137739,
+        "guid": "b0dce533-4c9a-440f-ab90-5f45707c8db3",
+        "typeRef": 2100988,
+        "type": "textModule",
+        "lastTransaction": 10158,
+        "lastModified": "2022-09-19T13:05:58.7395409Z",
+        "deleted": false,
+        "etag": "tRtemU3ilEzRv5UE5gT8wQ"
+      },
+      "props": {
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>The first known use of pie charts is found in William Playfair's publication \"The Statistical Breviary\" from 1801. The Scottish engineer and economist Playfair used this form of representation in his work to illustrate the territorial division of the Turkish Empire according to continents.</p><p>In subsequent times, this form of representation initially received little attention. The French engineer Charles Joseph Minard took it up again in 1858 to add a third dimension to the information representation. Since then, many variations of the pie chart have been designed, such as polar, area, radar, pie or 3D charts. However, the most commonly used form is still the simple representation as a pie chart.</p></div>"
+        },
+        "moduleSize": "medium",
+        "title": "Pie Chart",
+        "attributeName": "Pie Chart"
+      }
+    },
+    {
+      "displayName": "Gant Chart",
+      "displayIcon": 56,
+      "meta": {
+        "id": 2137740,
+        "guid": "bbb5b9eb-f7e7-4801-89c6-ba777753bc38",
+        "typeRef": 2100988,
+        "type": "textModule",
+        "lastTransaction": 10159,
+        "lastModified": "2022-09-19T13:10:07.1586158Z",
+        "deleted": false,
+        "etag": "khBxcYqMTvQbu8XbBySuyw"
+      },
+      "props": {
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Although widely used in project planning in the present day, Gantt charts were considered revolutionary when introduced. The first known tool of this type was developed in 1896 by Karol Adamiecki, who called it a harmonogram. Adamiecki did not publish his chart until 1931, however, and only in Polish, which limited both its adoption and recognition of his authorship.</p><p>Hermann Schürch published what could be considered Gantt charts while discussing a construction project. Charts of the type published by Schürch appear to have been in common use in Germany at the time. However, the prior development leading to Schürch's work is unclear. Unlike later Gantt charts, Schürch's charts did not display interdependencies, leaving them to be inferred by the reader. These were also static representations of a planned schedule.</p><p>The chart is named after Henry Gantt, who designed his chart around the years 1910–1915. Gantt originally created his tool for systematic, routine operations. He designed this visualization tool to more easily measure productivity levels of employees and gauge which employees were under- or over-performing. Gantt also frequently included graphics and other visual indicators in his charts to track performance.</p></div>"
+        },
+        "title": "Gant Chart",
+        "moduleSize": "medium",
+        "attributeName": "Gant Chart"
+      }
+    },
+    {
+      "displayName": "Gant Chart",
+      "displayIcon": 78,
+      "meta": {
+        "id": 2137741,
+        "guid": "847da4a9-d80a-4daf-8469-0a35d59b951c",
+        "typeRef": 2101136,
+        "type": "chartModule",
+        "lastTransaction": 10259,
+        "lastModified": "2022-09-21T14:31:18.2423476Z",
+        "deleted": false,
+        "etag": "F11_I_e5e45b4Ha4kfpYIA"
+      },
+      "props": {
+        "chartItemRefs": [
+          2123777,
+          2123779,
+          2123778,
+          2123776
+        ],
+        "chartType": "bar",
+        "moduleSize": "medium",
+        "attributeName": "Gant Chart"
+      }
+    },
+    {
+      "displayName": "Statistics",
+      "displayIcon": 91,
+      "meta": {
+        "id": 2137731,
+        "guid": "4db9b33c-fcbb-4efb-8128-b8b4462f5354",
+        "typeRef": 2101201,
+        "type": "imageGalleryModule",
+        "lastTransaction": 10455,
+        "lastModified": "2022-11-27T14:09:20.6412716Z",
+        "deleted": false,
+        "etag": "q0DKZFIlcu4A5Cpe_PvL8A"
+      },
+      "props": {
+        "imageGalleryRefs": [
+          2137713,
+          2137714,
+          2137721
+        ],
+        "moduleSize": "medium",
+        "attributeName": "Statistics"
+      }
+    },
+    {
+      "displayName": "Company Products Plants",
+      "displayIcon": 90,
+      "meta": {
+        "id": 2126519,
+        "guid": "42567db1-a0ad-42ff-b621-5b11733358e2",
+        "typeRef": 2101196,
+        "type": "teaserItem",
+        "lastTransaction": 8922,
+        "lastModified": "2022-08-31T14:55:51.2571024Z",
+        "deleted": false,
+        "etag": "o5aODrMSxc9hta3E55lPOA"
+      },
+      "props": {
+        "targetRef": 2123805,
+        "mediaTextModuleRef": 2126522,
+        "attributeName": "Company Products Plants"
+      }
+    },
+    {
+      "displayName": "Company Products Lights",
+      "displayIcon": 90,
+      "meta": {
+        "id": 2126520,
+        "guid": "433a9364-4055-45af-80ae-ba7b0a1bb6bf",
+        "typeRef": 2101196,
+        "type": "teaserItem",
+        "lastTransaction": 8926,
+        "lastModified": "2022-08-31T14:56:30.3350089Z",
+        "deleted": false,
+        "etag": "s__EcNcPhlxGr042w0kNLQ"
+      },
+      "props": {
+        "targetRef": 2123805,
+        "mediaTextModuleRef": 2126521,
+        "attributeName": "Company Products Lights"
+      }
+    },
+    {
+      "displayName": "Company Products Furniture",
+      "displayIcon": 90,
+      "meta": {
+        "id": 2126518,
+        "guid": "24d3e660-9f60-4de1-b52e-715db19eddd4",
+        "typeRef": 2101196,
+        "type": "teaserItem",
+        "lastTransaction": 9427,
+        "lastModified": "2022-09-06T13:15:48.1133466Z",
+        "deleted": false,
+        "etag": "v8lwahmk_FEpaA0e0bFVPw"
+      },
+      "props": {
+        "targetRef": 2123805,
+        "mediaTextModuleRef": 2126523,
+        "attributeName": "Company Products Furniture"
+      }
+    },
+    {
+      "displayName": "lights-custom.jpg",
+      "displayIcon": 598,
+      "meta": {
+        "id": 2127034,
+        "guid": "075dc907-d788-4237-b596-e43ac3e3434a",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 9387,
+        "lastModified": "2022-09-06T11:05:15.0763365Z",
+        "deleted": false,
+        "etag": "5muKG5h_1Agy8buWrbS-jw"
+      },
+      "props": {
+        "externalBinaryThumbnail": 877,
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryMediaType": 2097186,
+        "externalBinaryFileName": "lights-custom.jpg",
+        "externalBinaryMD5": "eb9cf7e2-dfab-5eda-f52c-f890759e5888"
+      }
+    },
+    {
+      "displayName": "standards",
+      "displayIcon": 79,
+      "meta": {
+        "id": 2123779,
+        "guid": "ca722953-c801-4aef-851b-dea14b39cdc4",
+        "typeRef": 2101147,
+        "type": "chartElement",
+        "lastTransaction": 10091,
+        "lastModified": "2022-09-17T20:43:28.5502115Z",
+        "deleted": false,
+        "etag": "bZEvZY6Zuj7vWNOuCASEDQ"
+      },
+      "props": {
+        "chartColor": "#0f766e",
+        "title": "standards",
+        "attributeName": "standards",
+        "chartValue": 28.9
+      }
+    },
+    {
+      "displayName": "pexels-chait-goli-1918291.jpg",
+      "displayIcon": 2596,
+      "meta": {
+        "id": 2137732,
+        "guid": "9894de0b-b495-40dd-b638-2ec67430e0ce",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10109,
+        "lastModified": "2022-09-19T08:35:51.9100408Z",
+        "deleted": false,
+        "etag": "a680dFPIbYOHshE2ArQTxw"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2596,
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryMediaType": 2097186,
+        "externalBinaryFileName": "pexels-chait-goli-1918291.jpg",
+        "externalBinaryMD5": "4a8c11b2-80dd-e355-c5bf-0229317660aa"
+      }
+    },
+    {
+      "displayName": "undraw_zoom_in_1txs.png",
+      "displayIcon": 2601,
+      "meta": {
+        "id": 2137737,
+        "guid": "b922b589-dc98-440a-addd-84b911429f62",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10108,
+        "lastModified": "2022-09-19T08:35:51.5975471Z",
+        "deleted": false,
+        "etag": "phMCrJ-KprmPC-9HW95bAA"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2601,
+        "externalBinaryMD5": "71bffd4b-a3be-ef0d-3a5a-5298c173bf34",
+        "externalBinaryFileExtension": ".png",
+        "externalBinaryMediaType": 2097187,
+        "externalBinaryFileName": "undraw_zoom_in_1txs.png"
+      }
+    },
+    {
+      "displayName": "know-how",
+      "displayIcon": 79,
+      "meta": {
+        "id": 2123778,
+        "guid": "48045a04-3005-4adc-9249-e207a87aaafc",
+        "typeRef": 2101147,
+        "type": "chartElement",
+        "lastTransaction": 10114,
+        "lastModified": "2022-09-19T10:05:43.1703157Z",
+        "deleted": false,
+        "etag": "FWg2sQiON_kF2i3sG7g7eA"
+      },
+      "props": {
+        "chartColor": "#2d3a4c",
+        "title": "know-how",
+        "attributeName": "know-how",
+        "chartValue": 44.7
+      }
+    },
+    {
+      "displayName": "undraw_term_sheet_re_ju7s.png",
+      "displayIcon": 2587,
+      "meta": {
+        "id": 2137721,
+        "guid": "33b186b8-ad58-4c10-9f32-35f172e0f36c",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10124,
+        "lastModified": "2022-09-19T11:49:27.9834258Z",
+        "deleted": false,
+        "etag": "OtrwJaj55Z7jlnwllexeLA"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2587,
+        "externalBinaryFileExtension": ".png",
+        "externalBinaryMediaType": 2097187,
+        "externalBinaryFileName": "undraw_term_sheet_re_ju7s.png",
+        "externalBinaryMD5": "d3e7e4c3-163a-9c20-68b8-6dd9fd0a39cf"
+      }
+    },
+    {
+      "displayName": "pexels-pixabay-220201.jpg",
+      "displayIcon": 2579,
+      "meta": {
+        "id": 2137707,
+        "guid": "64960b35-e4d5-48c1-a569-e64ccba381eb",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10137,
+        "lastModified": "2022-09-19T11:53:05.7774326Z",
+        "deleted": false,
+        "etag": "MHAvTQoE28F6SQfyZUymGA"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2579,
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryMediaType": 2097186,
+        "externalBinaryFileName": "pexels-pixabay-220201.jpg",
+        "externalBinaryMD5": "d61b7d40-ac2d-7044-d495-876783a95093"
+      }
+    },
+    {
+      "displayName": "undraw_Landing_page_re_6xev.png",
+      "displayIcon": 2581,
+      "meta": {
+        "id": 2137713,
+        "guid": "efbf2a16-15db-4a8d-8d23-afd8faad2c4c",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10135,
+        "lastModified": "2022-09-19T11:53:05.2930611Z",
+        "deleted": false,
+        "etag": "umiBaF6D-y8FvVLDvGa1qg"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2581,
+        "externalBinaryFileExtension": ".png",
+        "externalBinaryMediaType": 2097187,
+        "externalBinaryFileName": "undraw_Landing_page_re_6xev.png",
+        "externalBinaryMD5": "33d89eb4-8c57-5ed9-408d-00bd8469ca52"
+      }
+    },
+    {
+      "displayName": "undraw_product_tour_re_8bai.png",
+      "displayIcon": 2582,
+      "meta": {
+        "id": 2137714,
+        "guid": "0635197d-3ec0-4595-9b8b-0165d7130e19",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10134,
+        "lastModified": "2022-09-19T11:53:05.0586915Z",
+        "deleted": false,
+        "etag": "nG7d02S0NSLRl1gWDz2f4Q"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2582,
+        "externalBinaryFileExtension": ".png",
+        "externalBinaryMediaType": 2097187,
+        "externalBinaryFileName": "undraw_product_tour_re_8bai.png",
+        "externalBinaryMD5": "c09c56e1-13b9-07d1-bf8c-6d7bb7b7e756"
+      }
+    },
+    {
+      "displayName": "pexels-dan-gold-1701535.jpg",
+      "displayIcon": 2589,
+      "meta": {
+        "id": 2137724,
+        "guid": "a0584019-a83f-4b5d-ab1a-020f3f6e9933",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10160,
+        "lastModified": "2022-09-20T05:21:55.9321787Z",
+        "deleted": false,
+        "etag": "YFwPxcMIY70JrGy5MlfW2g"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2589,
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryMediaType": 2097186,
+        "externalBinaryFileName": "pexels-dan-gold-1701535.jpg",
+        "externalBinaryMD5": "536e5015-1ba6-a201-1fa3-4da93c2c9a88"
+      }
+    },
+    {
+      "displayName": "pexels-huseyn-kamaladdin-667838.jpg",
+      "displayIcon": 2588,
+      "meta": {
+        "id": 2137723,
+        "guid": "6f74ed4f-782b-44e6-9d88-a902854300af",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10161,
+        "lastModified": "2022-09-20T05:22:21.7911995Z",
+        "deleted": false,
+        "etag": "SA8xngBUkON2c8VMr7llew"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2588,
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryMediaType": 2097186,
+        "externalBinaryFileName": "pexels-huseyn-kamaladdin-667838.jpg",
+        "externalBinaryMD5": "23b3aecb-4d8a-0472-31b1-524863b4db57"
+      }
+    },
+    {
+      "displayName": "percent",
+      "displayIcon": 79,
+      "meta": {
+        "id": 2123776,
+        "guid": "22413d5d-0ce7-4db4-a657-08f2ce3b32f7",
+        "typeRef": 2101147,
+        "type": "chartElement",
+        "lastTransaction": 10262,
+        "lastModified": "2022-09-21T14:33:12.2566026Z",
+        "deleted": false,
+        "etag": "1xH3WJbrA4f_dkr8Dp22hg"
+      },
+      "props": {
+        "chartColor": "#334155",
+        "title": "percent",
+        "attributeName": "percent",
+        "chartValue": 50
+      }
+    },
+    {
+      "displayName": "costs",
+      "displayIcon": 79,
+      "meta": {
+        "id": 2123777,
+        "guid": "5902437d-871b-4c62-acba-91175da433bf",
+        "typeRef": 2101147,
+        "type": "chartElement",
+        "lastTransaction": 10263,
+        "lastModified": "2022-09-21T14:33:55.7092129Z",
+        "deleted": false,
+        "etag": "FVKJckEnVOY2bxCVoy2yzw"
+      },
+      "props": {
+        "title": "costs",
+        "attributeName": "costs",
+        "chartColor": "#415066",
+        "chartValue": 50
+      }
+    }
+  ]
+}

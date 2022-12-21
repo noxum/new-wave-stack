@@ -1,0 +1,92 @@
+{
+  "skip": 0,
+  "count": 1,
+  "more": false,
+  "objs": [
+    {
+      "displayName": "Sitemaps",
+      "displayIcon": 62,
+      "meta": {
+        "id": 2137744,
+        "guid": "fc4d47c2-b552-4aaf-a60b-51f25dca83ac",
+        "typeRef": 2101021,
+        "type": "webPage",
+        "lastTransaction": 10187,
+        "lastModified": "2022-09-20T13:32:48.7637525Z",
+        "deleted": false,
+        "etag": "JSKR20au-cUnq_2IhnAzew"
+      },
+      "props": {
+        "attributeName": "Sitemaps",
+        "navigationTitle": "Sitemaps",
+        "moduleRefs": [
+          2137747,
+          2137745
+        ]
+      }
+    }
+  ],
+  "refs": [
+    {
+      "displayName": "Sitemaps Intro",
+      "displayIcon": 56,
+      "meta": {
+        "id": 2137745,
+        "guid": "bf235a3d-b0b0-4962-b82e-dc447f84a23f",
+        "typeRef": 2100988,
+        "type": "textModule",
+        "lastTransaction": 10193,
+        "lastModified": "2022-09-20T18:44:00.0632198Z",
+        "deleted": false,
+        "etag": "GVPgtH7vzn7S3cQeI0jVpg"
+      },
+      "props": {
+        "moduleSize": "large",
+        "title": "Build complex website structures with NovaDB and Remix (coming soon)",
+        "attributeName": "Sitemaps Intro",
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Sitemaps may be addressed to users or to software. Many sites have user-visible sitemaps which present a systematic view, typically hierarchical, of the site. These are intended to help visitors find specific pages, and can also be used by crawlers. Alphabetically organized sitemaps, sometimes called site indexes, are a different approach. </p></div>"
+        }
+      }
+    },
+    {
+      "displayName": "Sitemaps Keyvisual",
+      "displayIcon": 86,
+      "meta": {
+        "id": 2137747,
+        "guid": "ba396343-1f91-4327-a0a1-99bfbdb85bc7",
+        "typeRef": 2101182,
+        "type": "parallaxImageModule",
+        "lastTransaction": 10201,
+        "lastModified": "2022-09-20T21:21:55.8172241Z",
+        "deleted": false,
+        "etag": "daBPsBNwM5uQOwocSG4iiQ"
+      },
+      "props": {
+        "imageRef": 2137751,
+        "attributeName": "Sitemaps Keyvisual"
+      }
+    },
+    {
+      "displayName": "sitemap-new.jpg",
+      "displayIcon": 2607,
+      "meta": {
+        "id": 2137751,
+        "guid": "f1e7940c-f34d-49f1-b819-ba2887d30636",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10222,
+        "lastModified": "2022-09-21T07:58:07.0825056Z",
+        "deleted": false,
+        "etag": "P8ta3k4VahRFgF4_6Zub2A"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2607,
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryMediaType": 2097186,
+        "externalBinaryFileName": "sitemap-new.jpg",
+        "externalBinaryMD5": "571ef968-12cd-b956-cb86-48e5a5b38f70"
+      }
+    }
+  ]
+}

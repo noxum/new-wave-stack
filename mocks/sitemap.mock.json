@@ -1,0 +1,21 @@
+{
+  "obj": {
+    "displayName": "Sitemaps",
+    "displayIcon": 90,
+    "meta": {
+      "id": 2137694,
+      "guid": "e1c69c78-75e8-4df3-823e-300f430897a8",
+      "typeRef": 2101196,
+      "type": "teaserItem",
+      "lastTransaction": 10172,
+      "lastModified": "2022-09-20T12:31:52.5118232Z",
+      "deleted": false,
+      "etag": "afbgDCTct9UCqJB8aJGFKA"
+    },
+    "props": {
+      "targetRef": 2137744,
+      "mediaTextModuleRef": 2137691,
+      "attributeName": "Content Demo Sitemap"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "skip": 0,
+  "count": 1,
+  "more": false,
+  "objs": [
+    {
+      "displayName": "Imprint",
+      "displayIcon": 62,
+      "meta": {
+        "id": 2127029,
+        "guid": "52692d58-b90c-4dfd-8338-3dabe5925ac8",
+        "typeRef": 2101021,
+        "type": "webPage",
+        "lastTransaction": 9176,
+        "lastModified": "2022-09-02T09:40:10.6364213Z",
+        "deleted": false,
+        "etag": "e3BrxS37Cw20_ZzrF7o6TQ"
+      },
+      "props": {
+        "seo_nofollow": false,
+        "navigationTitle": "Imprint",
+        "moduleRefs": [
+          2137595
+        ],
+        "seo_noindex": true,
+        "attributeName": "Imprint"
+      }
+    }
+  ],
+  "refs": [
+    {
+      "displayName": "Imprint",
+      "displayIcon": 56,
+      "meta": {
+        "id": 2137595,
+        "guid": "5c4dfea6-488d-40d0-aff5-94021662861f",
+        "typeRef": 2100988,
+        "type": "textModule",
+        "lastTransaction": 9923,
+        "lastModified": "2022-09-16T08:07:59.7899714Z",
+        "deleted": false,
+        "etag": "3zP4z-rIQ2qn1xAAfjFpDg"
+      },
+      "props": {
+        "moduleSize": "medium",
+        "attributeName": "Imprint",
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Responsibility for the content of this website lies with:</h3><p>Noxum GmbH<br />Beethovenstraße 5<br />97080 Würzburg<br />Germany</p><p>Phone +49 931 46588-0<br />Fax +49 931 46588-599<br />info@noxum.com<br />www.noxum.com</p><p>Commercial register: Würzburg district court<br />Registry entry: HRB 6212<br />Turnover-tax ID No.: DE194660464</p><h3>Managing directors:</h3><p>Norbert Klinnert<br />Volker Römisch<br />Michael Stegmann</p><p><br />All details on this website are provided for general information purposes only. They do not constitute binding advice or recommendations. Likewise, the company provides no guarantee that the information provided is correct and/or up to date.</p><p>The content of external websites which are accessible from this site via hyperlinks or which refer to this site is third-party content. Noxum GmbH has no influence over this content and accepts no liability whatsoever for it.</p></div>"
+        },
+        "title": "Our company details"
+      }
+    }
+  ]
+}

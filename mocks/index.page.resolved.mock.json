@@ -1,0 +1,433 @@
+{
+  "skip": 0,
+  "count": 1,
+  "more": false,
+  "objs": [
+    {
+      "displayName": "Index",
+      "displayIcon": 62,
+      "meta": {
+        "id": 2127037,
+        "guid": "f5d2d687-3944-4d1b-8d7d-c77d5263ec76",
+        "typeRef": 2101021,
+        "type": "webPage",
+        "lastTransaction": 10058,
+        "lastModified": "2022-09-17T20:08:07.1086905Z",
+        "deleted": false,
+        "etag": "i_BQQTf5LRHEgXVE_akCRw"
+      },
+      "props": {
+        "moduleRefs": [
+          2127039,
+          2127038,
+          2137689,
+          2126515,
+          2127041,
+          2127042,
+          2137720
+        ],
+        "attributeName": "Index",
+        "navigationTitle": "Introduction"
+      }
+    }
+  ],
+  "refs": [
+    {
+      "displayName": "Content Demos",
+      "displayIcon": 89,
+      "meta": {
+        "id": 2137689,
+        "guid": "add5919e-30b4-4743-a22a-ec9c390dbd0c",
+        "typeRef": 2101192,
+        "type": "teaserModule",
+        "lastTransaction": 9569,
+        "lastModified": "2022-09-07T12:10:21.3187072Z",
+        "deleted": false,
+        "etag": "IQZs7Ew9Z--L9k7JeIwNPQ"
+      },
+      "props": {
+        "teaserItemRefs": [
+          2137695,
+          2137693,
+          2137694
+        ],
+        "attributeName": "Content Demos"
+      }
+    },
+    {
+      "displayName": "Company Onepager Opener",
+      "displayIcon": 86,
+      "meta": {
+        "id": 2126515,
+        "guid": "ccd52f5c-c85b-4079-9d7c-2f0d0ab725e1",
+        "typeRef": 2101182,
+        "type": "parallaxImageModule",
+        "lastTransaction": 9895,
+        "lastModified": "2022-09-16T07:37:30.1277824Z",
+        "deleted": false,
+        "etag": "BjBpgZJnJtEaYYblxmWYsA"
+      },
+      "props": {
+        "imageRef": 2137707,
+        "title": "GReat IDeas for a better World!",
+        "attributeName": "Company Onepager Opener"
+      }
+    },
+    {
+      "displayName": "Our Solution",
+      "displayIcon": 85,
+      "meta": {
+        "id": 2137720,
+        "guid": "1e3f34ee-b3e7-4b27-9c33-b27edca2e036",
+        "typeRef": 2101179,
+        "type": "imageModule",
+        "lastTransaction": 9958,
+        "lastModified": "2022-09-16T08:31:08.4552716Z",
+        "deleted": false,
+        "etag": "0fgytJjb2wK7R1aXzopsqw"
+      },
+      "props": {
+        "moduleSize": "medium",
+        "imageRef": 2137721,
+        "attributeName": "Our Solution"
+      }
+    },
+    {
+      "displayName": "About NovaDB",
+      "displayIcon": 56,
+      "meta": {
+        "id": 2127041,
+        "guid": "95231f4a-e8cf-478d-81c1-55de37dcc308",
+        "typeRef": 2100988,
+        "type": "textModule",
+        "lastTransaction": 9985,
+        "lastModified": "2022-09-16T08:42:57.9510942Z",
+        "deleted": false,
+        "etag": "mQ2cXyfhYSKpDcLtBCcKfQ"
+      },
+      "props": {
+        "moduleSize": "medium",
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>In its initial state, it is unspecific – but it encapsulates the potential to adapt to a precise task as a result of minor external impulses.</p><p>NovaDB can digitize and control corporate processes. It can react to external events automatically and initiate follow-up processes. NovaDB can transform information to knowledge by linking complex data and allowing extensive research. NovaDB can offer knowledge to anyone in adequate form – as export of documents, websites, process events, reports, or many other forms of expression. NovaDB can do all the above – at the same time.</p></div>"
+        },
+        "title": "NovaDB is a stem cell for Information and Content Management Systems",
+        "attributeName": "About NovaDB"
+      }
+    },
+    {
+      "displayName": "Introduction Opener",
+      "displayIcon": 86,
+      "meta": {
+        "id": 2127039,
+        "guid": "91075b25-dad8-4984-88c3-9596ccd1b43f",
+        "typeRef": 2101182,
+        "type": "parallaxImageModule",
+        "lastTransaction": 10002,
+        "lastModified": "2022-09-16T09:00:13.1021706Z",
+        "deleted": false,
+        "etag": "EW6uXMzimmXrQbGxj1T-9w"
+      },
+      "props": {
+        "imageRef": 2137727,
+        "attributeName": "Introduction Opener",
+        "title": "Use NovaDB and Remix to build great Websites!"
+      }
+    },
+    {
+      "displayName": "About Remix",
+      "displayIcon": 56,
+      "meta": {
+        "id": 2127042,
+        "guid": "d8cf8514-6249-494d-a962-9176bd702356",
+        "typeRef": 2100988,
+        "type": "textModule",
+        "lastTransaction": 10059,
+        "lastModified": "2022-09-17T20:12:44.9660366Z",
+        "deleted": false,
+        "etag": "ypaK-bnh0vUSGsVraguzmQ"
+      },
+      "props": {
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Remix is a full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience. People are gonna love using your stuff.</p><p>Remix has a large repertoire that makes web application development a breeze. When you first learn Remix, you'll need some time with documentation, but you probably won't need it once you get the hang of it.</p></div>"
+        },
+        "moduleSize": "medium",
+        "attributeName": "About Remix",
+        "title": "About Remix"
+      }
+    },
+    {
+      "displayName": "Introduction Text",
+      "displayIcon": 56,
+      "meta": {
+        "id": 2127038,
+        "guid": "9feffcb3-a654-4660-8f73-82bc56559a08",
+        "typeRef": 2100988,
+        "type": "textModule",
+        "lastTransaction": 10318,
+        "lastModified": "2022-10-25T12:18:01.7182584Z",
+        "deleted": false,
+        "etag": "CLXWcL1L_3lnp0Dj5qZTLQ"
+      },
+      "props": {
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>The following demos show you the power of NovaDB and Remix and what you can achieve. Use these demos as an inspiration and create your own great websites!</p></div>"
+        },
+        "moduleSize": "large",
+        "attributeName": "Introduction Text",
+        "title": "See our following Demos to see what is possible"
+      }
+    },
+    {
+      "displayName": "Content Demo Onepager",
+      "displayIcon": 90,
+      "meta": {
+        "id": 2137695,
+        "guid": "1502758c-0af2-4d77-a90a-5aab3ce90e09",
+        "typeRef": 2101196,
+        "type": "teaserItem",
+        "lastTransaction": 9586,
+        "lastModified": "2022-09-07T12:36:22.3260105Z",
+        "deleted": false,
+        "etag": "s-3MaFReOqhK8ToMgSUtew"
+      },
+      "props": {
+        "targetRef": 2126513,
+        "mediaTextModuleRef": 2137690,
+        "attributeName": "Content Demo Onepager"
+      }
+    },
+    {
+      "displayName": "Contend Demo Product Catalog",
+      "displayIcon": 90,
+      "meta": {
+        "id": 2137693,
+        "guid": "e9ded759-a113-411d-9c61-0a13627c5b09",
+        "typeRef": 2101196,
+        "type": "teaserItem",
+        "lastTransaction": 9588,
+        "lastModified": "2022-09-07T12:36:36.8728094Z",
+        "deleted": false,
+        "etag": "l9UQmzvKqBI0jtLQXYByRA"
+      },
+      "props": {
+        "targetRef": 2123805,
+        "mediaTextModuleRef": 2137692,
+        "attributeName": "Contend Demo Product Catalog"
+      }
+    },
+    {
+      "displayName": "undraw_term_sheet_re_ju7s.png",
+      "displayIcon": 2587,
+      "meta": {
+        "id": 2137721,
+        "guid": "33b186b8-ad58-4c10-9f32-35f172e0f36c",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10124,
+        "lastModified": "2022-09-19T11:49:27.9834258Z",
+        "deleted": false,
+        "etag": "OtrwJaj55Z7jlnwllexeLA"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2587,
+        "externalBinaryFileExtension": ".png",
+        "externalBinaryMediaType": 2097187,
+        "externalBinaryFileName": "undraw_term_sheet_re_ju7s.png",
+        "externalBinaryMD5": "d3e7e4c3-163a-9c20-68b8-6dd9fd0a39cf"
+      }
+    },
+    {
+      "displayName": "pexels-pixabay-220201.jpg",
+      "displayIcon": 2579,
+      "meta": {
+        "id": 2137707,
+        "guid": "64960b35-e4d5-48c1-a569-e64ccba381eb",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10137,
+        "lastModified": "2022-09-19T11:53:05.7774326Z",
+        "deleted": false,
+        "etag": "MHAvTQoE28F6SQfyZUymGA"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2579,
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryMediaType": 2097186,
+        "externalBinaryFileName": "pexels-pixabay-220201.jpg",
+        "externalBinaryMD5": "d61b7d40-ac2d-7044-d495-876783a95093"
+      }
+    },
+    {
+      "displayName": "pexels-pixabay-35550.jpg",
+      "displayIcon": 2592,
+      "meta": {
+        "id": 2137727,
+        "guid": "6783443d-32fe-4c28-8240-cfd4128a7a98",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10163,
+        "lastModified": "2022-09-20T05:26:47.8813621Z",
+        "deleted": false,
+        "etag": "_x_c7LaM_m3OY-BDRlDGag"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2592,
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryMediaType": 2097186,
+        "externalBinaryFileName": "pexels-pixabay-35550.jpg",
+        "externalBinaryMD5": "db38bb82-9dec-7a90-62e6-e3f7087a3a90"
+      }
+    },
+    {
+      "displayName": "Content Demo Sitemap",
+      "displayIcon": 90,
+      "meta": {
+        "id": 2137694,
+        "guid": "e1c69c78-75e8-4df3-823e-300f430897a8",
+        "typeRef": 2101196,
+        "type": "teaserItem",
+        "lastTransaction": 10172,
+        "lastModified": "2022-09-20T12:31:52.5118232Z",
+        "deleted": false,
+        "etag": "afbgDCTct9UCqJB8aJGFKA"
+      },
+      "props": {
+        "targetRef": 2137744,
+        "mediaTextModuleRef": 2137691,
+        "attributeName": "Content Demo Sitemap"
+      }
+    },
+    {
+      "displayName": "Content Demo Onepager",
+      "displayIcon": 57,
+      "meta": {
+        "id": 2137690,
+        "guid": "a2fda1e5-fcae-4978-beea-f74cb3d791c0",
+        "typeRef": 2100992,
+        "type": "mediaTextModule",
+        "lastTransaction": 9925,
+        "lastModified": "2022-09-16T08:12:22.2576548Z",
+        "deleted": false,
+        "etag": "E4xJY5UuDqqhDrJxpfn7rw"
+      },
+      "props": {
+        "imageRef": 2137713,
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>A company page as a one-pager with some built-in modules such as media text, text, teaser and accordion.</p></div>"
+        },
+        "attributeName": "Content Demo Onepager",
+        "title": "Company Onepager",
+        "reverse": false
+      }
+    },
+    {
+      "displayName": "Content Demo Product Catalog",
+      "displayIcon": 57,
+      "meta": {
+        "id": 2137692,
+        "guid": "b0fb25a0-5a98-45dd-88a4-f1cb187618cf",
+        "typeRef": 2100992,
+        "type": "mediaTextModule",
+        "lastTransaction": 9934,
+        "lastModified": "2022-09-16T08:16:32.991444Z",
+        "deleted": false,
+        "etag": "QlsUXo3bhvNBPj2tKbhJxA"
+      },
+      "props": {
+        "imageRef": 2137716,
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>A product catalog with a list of products including a product detail view.</p></div>"
+        },
+        "reverse": false,
+        "title": "Product Catalog",
+        "attributeName": "Content Demo Product Catalog"
+      }
+    },
+    {
+      "displayName": "Content Demo Sitemap",
+      "displayIcon": 57,
+      "meta": {
+        "id": 2137691,
+        "guid": "4955eab0-f165-4c28-aba6-a79a63fed070",
+        "typeRef": 2100992,
+        "type": "mediaTextModule",
+        "lastTransaction": 9938,
+        "lastModified": "2022-09-16T08:16:52.8821593Z",
+        "deleted": false,
+        "etag": "_l1VhXO07u5bu2zyiqUmwQ"
+      },
+      "props": {
+        "imageRef": 2137717,
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>A company page with a side navigation to different content on subpages.</p></div>"
+        },
+        "reverse": false,
+        "title": "Website with Navigation",
+        "attributeName": "Content Demo Sitemap"
+      }
+    },
+    {
+      "displayName": "undraw_Landing_page_re_6xev.png",
+      "displayIcon": 2581,
+      "meta": {
+        "id": 2137713,
+        "guid": "efbf2a16-15db-4a8d-8d23-afd8faad2c4c",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10135,
+        "lastModified": "2022-09-19T11:53:05.2930611Z",
+        "deleted": false,
+        "etag": "umiBaF6D-y8FvVLDvGa1qg"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2581,
+        "externalBinaryFileExtension": ".png",
+        "externalBinaryMediaType": 2097187,
+        "externalBinaryFileName": "undraw_Landing_page_re_6xev.png",
+        "externalBinaryMD5": "33d89eb4-8c57-5ed9-408d-00bd8469ca52"
+      }
+    },
+    {
+      "displayName": "undraw_product_tour_re_8bai.png",
+      "displayIcon": 2584,
+      "meta": {
+        "id": 2137716,
+        "guid": "2f2c4c0b-d178-415a-aab5-3fce5e624bb9",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10132,
+        "lastModified": "2022-09-19T11:53:04.574516Z",
+        "deleted": false,
+        "etag": "pLL_5gSC8lesQqasSLrDkQ"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2584,
+        "externalBinaryFileExtension": ".png",
+        "externalBinaryMediaType": 2097187,
+        "externalBinaryFileName": "undraw_product_tour_re_8bai.png",
+        "externalBinaryMD5": "67dbff10-87d0-75e2-968e-9d3261e21af2"
+      }
+    },
+    {
+      "displayName": "undraw_Dropdown_menu_re_jqqs.png",
+      "displayIcon": 2585,
+      "meta": {
+        "id": 2137717,
+        "guid": "6b6f943a-a050-4c8c-a7bf-7f5f1c7b333f",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10131,
+        "lastModified": "2022-09-19T11:53:04.3087006Z",
+        "deleted": false,
+        "etag": "VvykaH1J1bMApXNgShcFdQ"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2585,
+        "externalBinaryFileExtension": ".png",
+        "externalBinaryMediaType": 2097187,
+        "externalBinaryFileName": "undraw_Dropdown_menu_re_jqqs.png",
+        "externalBinaryMD5": "b482b399-5fe2-3272-75c6-ff10651ddcec"
+      }
+    }
+  ]
+}

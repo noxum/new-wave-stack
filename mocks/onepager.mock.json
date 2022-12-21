@@ -1,0 +1,26 @@
+{
+	"obj": {
+		"displayName": "Company-Onepager",
+		"displayIcon": 62,
+		"meta": {
+			"id": 2126513,
+			"guid": "770f8245-ba60-49f4-a61d-1ac5d0625979",
+			"typeRef": 2101021,
+			"type": "webPage",
+			"lastTransaction": 10316,
+			"lastModified": "2022-10-24T08:24:53.7256594Z",
+			"deleted": false,
+			"etag": "xCCR4Sv48ewUYqcOmMSm9w"
+		},
+		"props": {
+			"moduleRefs": [
+				2126516, 2126515, 2126517, 2126542, 2137733, 2126523, 2126521, 2126522, 2137738, 2137739, 2123775,
+				2137741, 2137740, 2137742, 2137731, 2137743
+			],
+			"attributeName": "Company-Onepager",
+			"navigationTitle": "Company Onepager",
+			"seo_description": "At GRID Industries, we have a lot of great ideas for even better products. With our product portfolio, we help people manage their everyday lives better.",
+			"seo_keywords": ["GRID Industries"]
+		}
+	}
+}

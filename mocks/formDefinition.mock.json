@@ -1,0 +1,345 @@
+{
+  "obj": {
+    "displayName": "Product Data",
+    "displayIcon": 25,
+    "meta": {
+      "id": 2137702,
+      "guid": "421eefb0-7c52-43f0-b96d-45bb677c8cb7",
+      "typeRef": 50,
+      "type": "typeForm",
+      "lastTransaction": 9769,
+      "lastModified": "2022-09-13T14:01:38.0837277Z",
+      "deleted": false,
+      "etag": "0OKEj5yWRcnO5BF7QdpUsA"
+    },
+    "props": {
+      "formContent": [
+        2112084,
+        2112075,
+        2112287,
+        2112288,
+        2112168,
+        2112170,
+        2112458,
+        2112139,
+        2112175,
+        2112171,
+        2112092,
+        2112161,
+        2112074,
+        2112083,
+        2112076,
+        2112153,
+        2112164,
+        2112143,
+        2112159
+      ]
+    }
+  },
+  "refs": [
+    {
+      "displayName": "product article number of manufacturer",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112074,
+        "guid": "a85cd87f-a2d2-46b4-ae99-a60431776ccb",
+        "apiIdentifier": "productArticleNumberOfManufacturer",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9737,
+        "lastModified": "2022-09-13T09:34:18.9624546Z",
+        "deleted": false,
+        "etag": "k0rlWadDBeVqpDinu6KtQg"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "GTIN",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112075,
+        "guid": "3e9f1e58-e5e5-40f0-9732-96994bc2b1d3",
+        "apiIdentifier": "gtin",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9738,
+        "lastModified": "2022-09-13T09:34:34.9780053Z",
+        "deleted": false,
+        "etag": "Fjje62wGiTfduIj7gdbpLQ"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Manufacturer name",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112084,
+        "guid": "7a222564-6a56-4bc0-9dea-f4d2991926ad",
+        "apiIdentifier": "manufacturerName",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9739,
+        "lastModified": "2022-09-13T09:37:52.8207481Z",
+        "deleted": false,
+        "etag": "FBFUdfu7DB0DygO5U_mqJg"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Manufacturer product description",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112083,
+        "guid": "d17a3e60-db9e-4de6-946d-2f701615c52e",
+        "apiIdentifier": "manufacturerProductDescription",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9740,
+        "lastModified": "2022-09-13T09:38:01.0863288Z",
+        "deleted": false,
+        "etag": "RDNsLpvbh0fzVCScU8yN6A"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Manufacturer product designation",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112076,
+        "guid": "7cee388f-f05f-4ee6-8769-e4b806bb73af",
+        "apiIdentifier": "manufacturerProductDesignation",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9741,
+        "lastModified": "2022-09-13T09:38:09.6956475Z",
+        "deleted": false,
+        "etag": "8iPYLp-JwJ-LqkxeVeKfSg"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Product type",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112092,
+        "guid": "5ffa2205-2e60-4dfd-8ec3-d68b41d093cd",
+        "apiIdentifier": "productType",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9742,
+        "lastModified": "2022-09-13T09:38:24.9612754Z",
+        "deleted": false,
+        "etag": "SG6xBWgER9S7WnXnuBoDVg"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "material of housing",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112153,
+        "guid": "e6fd9a05-8a6f-48d7-8858-5140b0562df8",
+        "apiIdentifier": "materialOfHousing",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9743,
+        "lastModified": "2022-09-13T09:38:36.8049043Z",
+        "deleted": false,
+        "etag": "0fx6iM1pUiwXd8z74jQQEw"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Housing construction form",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112161,
+        "guid": "2da48cd6-8950-4f6c-9acf-c86573f9c6f4",
+        "apiIdentifier": "housingConstructionForm",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9744,
+        "lastModified": "2022-09-13T09:38:49.8048368Z",
+        "deleted": false,
+        "etag": "VxcEDwGKPjvR31cigWxnfw"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "max. operating ambient temperature",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112139,
+        "guid": "43cc3a82-9b39-47a2-a872-5cf4700509a4",
+        "apiIdentifier": "maxOperatingAmbientTemperature",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9745,
+        "lastModified": "2022-09-13T09:38:59.9297882Z",
+        "deleted": false,
+        "etag": "UtPtMS6h0NgE3bSr2cj20A"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Design of control element",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112164,
+        "guid": "3d13e948-71bd-4441-a770-12baa0833c41",
+        "apiIdentifier": "designOfControlElement",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9746,
+        "lastModified": "2022-09-13T09:39:12.1485108Z",
+        "deleted": false,
+        "etag": "__jhk7nFR-AuhczYQbtKKA"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Design of control output",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112143,
+        "guid": "5434029d-e9ee-44f8-a9f5-96381fd73ae5",
+        "apiIdentifier": "designOfControlOutput",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9747,
+        "lastModified": "2022-09-13T09:39:21.5233813Z",
+        "deleted": false,
+        "etag": "hyCuqZrQJGsB7Yi_WsyOWA"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Length of sensor",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112171,
+        "guid": "b469fc71-8293-4ce1-8cf9-17c72bdf42a1",
+        "apiIdentifier": "lengthOfSensor",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9748,
+        "lastModified": "2022-09-13T09:39:36.9608427Z",
+        "deleted": false,
+        "etag": "9TkJOQpGA4dp3Yb9K7SXdw"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "min. operating ambient temperature",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112458,
+        "guid": "3162712d-c2e6-4102-aa15-ec9d575df60b",
+        "apiIdentifier": "minOperatingAmbientTemperature",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9749,
+        "lastModified": "2022-09-13T09:39:53.8514311Z",
+        "deleted": false,
+        "etag": "Iap2jrvUOiQ1fWikPX7XOA"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "min. supply voltage",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112287,
+        "guid": "0553425a-23c0-47d9-9aa3-ec2ee830ed40",
+        "apiIdentifier": "minSupplyVoltage",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9750,
+        "lastModified": "2022-09-13T09:40:04.6638415Z",
+        "deleted": false,
+        "etag": "7OxEJs3kn_O2TkY9VCjvCg"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "max. supply voltage",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112288,
+        "guid": "3cd4139e-bf43-42f7-8c6a-ac97e28d81a7",
+        "apiIdentifier": "maxSupplyVoltage",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9751,
+        "lastModified": "2022-09-13T09:40:21.2262422Z",
+        "deleted": false,
+        "etag": "OfoifclzWt8dtLshIv3_2g"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Voltage type",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112159,
+        "guid": "b532878c-324d-4555-9a86-bc71c1587592",
+        "apiIdentifier": "voltageType",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9752,
+        "lastModified": "2022-09-13T09:40:35.2886658Z",
+        "deleted": false,
+        "etag": "fDE8Tr3l44r-EAtHjJNPqQ"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Switch frequency",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112175,
+        "guid": "8d4d9c65-553c-4dea-a2a5-3e44dbb513c8",
+        "apiIdentifier": "switchFrequency",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9753,
+        "lastModified": "2022-09-13T09:40:43.5854999Z",
+        "deleted": false,
+        "etag": "eFW5prM_UdhrGIfU7Xx-Sg"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Height of sensor",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112168,
+        "guid": "0a76ece2-5541-43ec-ad9f-6fcb26e11bfe",
+        "apiIdentifier": "heightOfSensor",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9754,
+        "lastModified": "2022-09-13T09:40:53.5698266Z",
+        "deleted": false,
+        "etag": "Ea3NkFA1v9F5NLMLdXrNEg"
+      },
+      "props": {}
+    },
+    {
+      "displayName": "Width of sensor",
+      "displayIcon": 21,
+      "meta": {
+        "id": 2112170,
+        "guid": "846ee24a-91ab-4d50-9c04-80c529469e2b",
+        "apiIdentifier": "widthOfSensor",
+        "typeRef": 10,
+        "type": "typeAttribute",
+        "lastTransaction": 9755,
+        "lastModified": "2022-09-13T09:41:03.7416489Z",
+        "deleted": false,
+        "etag": "9EzfcFYkGfVXAjl0KCD4zg"
+      },
+      "props": {}
+    }
+  ]
+}

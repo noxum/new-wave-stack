@@ -1,0 +1,54 @@
+{
+  "obj": {
+    "displayName": "Inductive slot sensor SJ3,5-N LED",
+    "displayIcon": 98,
+    "meta": {
+      "id": 2122042,
+      "guid": "d81e66f5-1243-4a07-9ff5-d716ea8ff552",
+      "typeRef": 2112986,
+      "type": "product",
+      "lastTransaction": 7019,
+      "lastModified": "2022-04-28T09:31:17.1901199Z",
+      "deleted": false,
+      "etag": "QGj_FeQffOIVuSuF8DoNHA"
+    },
+    "props": {
+      "productType": "SJ3,5-N LED",
+      "manufacturerProductDescription": "Slot width: 3.5 mm, Switching function: Normally closed (NC), Output type: NAMUR, Operating voltage: 5 ... 25 V, Nominal voltage: 8.2 V (Ri approx. 1 kΩ)",
+      "manufacturerProductDesignation": "Inductive slot sensor SJ3,5-N LED",
+      "productImageRef": [
+        2123692
+      ],
+      "manufacturerName": "Pepperl+Fuchs",
+      "housingConstructionForm": 2113564,
+      "maxOperatingAmbientTemperature": 100,
+      "lengthOfSensor": 19.5,
+      "switchFrequency": 3000000,
+      "voltageType": 2113549,
+      "gtin": "4050143009244",
+      "heightOfSensor": 15,
+      "widthOfSensor": 10,
+      "materialOfHousing": 2113512,
+      "designOfControlOutput": 2113217,
+      "minOperatingAmbientTemperature": -25,
+      "productArticleNumberOfManufacturer": "106586"
+    }
+  },
+  "refs": [
+    {
+      "displayName": "Inductive slot sensor SJ3,5-N LED_productimage",
+      "displayIcon": 348,
+      "meta": {
+        "id": 2123692,
+        "guid": "0272b2be-81c4-49d8-a3f0-e8a618325ee2",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 6051,
+        "lastModified": "2021-03-23T09:43:25.3159832Z",
+        "deleted": false,
+        "etag": "n2rynA63ka2JFZPuej4EVA"
+      },
+      "props": {}
+    }
+  ]
+}

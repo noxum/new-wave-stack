@@ -1,0 +1,5207 @@
+{
+  "skip": 0,
+  "count": 100,
+  "more": true,
+  "objs": [
+    {
+      "displayName": "Inductive sensor 3RG4022-3CD00-PF",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2115185,
+        "guid": "822e3b05-e8b3-492f-b64f-db7aa5d9be05",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "o5tMu3xaEB2c87INx6lr_g"
+      },
+      "props": {
+        "productType": "3RG4022-3CD00-PF",
+        "manufacturerProductDescription": " Proximity Sensors , Inductive Sensors, Standard Sensors, Non-Safety",
+        "manufacturerProductDesignation": "Inductive sensor 3RG4022-3CD00-PF",
+        "productImageRef": [
+          2122062
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "gtin": "4050143266777",
+        "productArticleNumberOfManufacturer": "552877"
+      }
+    },
+    {
+      "displayName": "Inductive sensor 921LC2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2115187,
+        "guid": "74b0567c-45ce-4fca-9dc6-6b6d175068da",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "vi5hcIZvIVQvvemmSfzHlA"
+      },
+      "props": {
+        "productType": "921LC2",
+        "manufacturerProductDescription": "Rated operating distance: 2 mm, Installation: flush, Switching function: Normally closed (NC), Output type: NAMUR, Operating voltage: 5 ... 15 V, Nominal voltage: 8.2 V",
+        "manufacturerProductDesignation": "Inductive sensor 921LC2",
+        "productImageRef": [
+          2122067
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "voltageType": 2113549,
+        "gtin": "4050143054664",
+        "designOfControlOutput": 2113217,
+        "productArticleNumberOfManufacturer": "450097"
+      }
+    },
+    {
+      "displayName": "Inductive analog sensor ANT2-8 2084/85 V1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120339,
+        "guid": "cd218ad6-1743-4349-840e-1ea67344a35c",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "8s5iIH0s4dQH_eC12OvS2A"
+      },
+      "props": {
+        "productType": "ANT2-8 2084/85 V1",
+        "manufacturerProductDescription": "Installation: non-flush, Output type: Analog current output or analog voltage output, Operating voltage: 18 ... 30 V",
+        "manufacturerProductDesignation": "Inductive analog sensor ANT2-8 2084/85 V1",
+        "manufacturerName": "Pepperl+Fuchs",
+        "productImageRef": [
+          2122068
+        ],
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 70,
+        "voltageType": 2113549,
+        "gtin": "4050143053124",
+        "materialOfHousing": 2113495,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "409633"
+      }
+    },
+    {
+      "displayName": "Inductive sensor FJ7-N",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120342,
+        "guid": "c2c52357-86ea-4e51-858d-e4424fdbc3e8",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "g9yOfh3O9mhTJHKo6CJnBA"
+      },
+      "props": {
+        "productType": "FJ7-N",
+        "manufacturerProductDescription": "Rated operating distance: 7 mm, Installation: flush, Switching function: Normally closed (NC), Output type: NAMUR, Operating voltage: 5 ... 25 V, Nominal voltage: 8.2 V (Ri approx. 1 kΩ)",
+        "manufacturerProductDesignation": "Inductive sensor FJ7-N",
+        "productImageRef": [
+          2122069
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 100,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143052097",
+        "switchFrequency": 200000,
+        "heightOfSensor": 24,
+        "widthOfSensor": 50,
+        "designOfControlOutput": 2113217,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "306134"
+      }
+    },
+    {
+      "displayName": "Inductive slot sensor GT3,0 50.000/0768",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120343,
+        "guid": "82f576d4-46f2-4157-8f60-3a24d94885af",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "neZE-zJHTRB0_tW7ghJmag"
+      },
+      "props": {
+        "productType": "GT3,0 50.000/0768",
+        "manufacturerProductDescription": "Slot width: 3 mm, Installation: , Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA, Connection type: 150 mm with connector V3/M8",
+        "manufacturerProductDesignation": "Inductive slot sensor GT3,0 50.000/0768",
+        "productImageRef": [
+          2122070
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113564,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "switchFrequency": 2000000,
+        "voltageType": 2113549,
+        "gtin": "4050143053346",
+        "heightOfSensor": 14,
+        "widthOfSensor": 43,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "416350"
+      }
+    },
+    {
+      "displayName": "Inductive slot sensor GT3,51 50.000/0400",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120344,
+        "guid": "5b1b7022-1cae-4317-92b5-bdf280eff227",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "j6wBT7F5QPGVvCGNcpUnsw"
+      },
+      "props": {
+        "productType": "GT3,51 50.000/0400",
+        "manufacturerProductDescription": "Slot width: 3.5 mm, Installation: , Switching function: Normally open (NO), Output type: PNP, Operating voltage: 6 ... 30 V, Operating current: 0 ... 100 mA, Connection type: 4-pin, M9 connector",
+        "manufacturerProductDesignation": "Inductive slot sensor GT3,51 50.000/0400",
+        "productImageRef": [
+          2122071
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113564,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 20,
+        "switchFrequency": 2000000,
+        "voltageType": 2113549,
+        "gtin": "4050143131570",
+        "heightOfSensor": 17,
+        "widthOfSensor": 10,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "416227"
+      }
+    },
+    {
+      "displayName": "Inductive analog sensor IA6-12GM35-U-V1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120345,
+        "guid": "59bbce87-4dd0-4430-a589-aa3eebfb5ca4",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "NiAFWMUKvIBDmI8m8cS7yg"
+      },
+      "props": {
+        "productType": "IA6-12GM35-U-V1",
+        "manufacturerProductDescription": "Installation: quasi flush, Output type: Analog voltage output, Operating voltage: 10 ... 30 V",
+        "manufacturerProductDesignation": "Inductive analog sensor IA6-12GM35-U-V1",
+        "productImageRef": [
+          2122072
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 45,
+        "voltageType": 2113549,
+        "minOperatingAmbientTemperature": -25,
+        "gtin": "4050143012336",
+        "productArticleNumberOfManufacturer": "123389"
+      }
+    },
+    {
+      "displayName": "Inductive analog sensor IA6-12GM50-IU-V1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120346,
+        "guid": "dff2d41e-2c5d-433e-8dc7-87e9593dcbf9",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "mrY6LrDtFby6dMekmvwdFQ"
+      },
+      "props": {
+        "productType": "IA6-12GM50-IU-V1",
+        "manufacturerProductDescription": "Installation: quasi flush, Output type: Analog current output or analog voltage output, Operating voltage: 15 ... 30 V , residual ripple 20 % UB",
+        "manufacturerProductDesignation": "Inductive analog sensor IA6-12GM50-IU-V1",
+        "productImageRef": [
+          2122073
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 60,
+        "voltageType": 2113549,
+        "minOperatingAmbientTemperature": -25,
+        "gtin": "4050143012343",
+        "productArticleNumberOfManufacturer": "123391"
+      }
+    },
+    {
+      "displayName": "Inductive analog sensor IA8-30GM-I3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120347,
+        "guid": "2ba6bb5b-905b-4499-9c38-d25c84f8f22a",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "bKWgP7JmrxA5PPrpDKnglw"
+      },
+      "props": {
+        "productType": "IA8-30GM-I3",
+        "manufacturerProductDescription": "Installation: flush, Output type: Analog current output, Operating voltage: 15 ... 30 V",
+        "manufacturerProductDesignation": "Inductive analog sensor IA8-30GM-I3",
+        "productImageRef": [
+          2122074
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 60,
+        "voltageType": 2113549,
+        "materialOfHousing": 2113495,
+        "minOperatingAmbientTemperature": -10,
+        "productArticleNumberOfManufacturer": "015598"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E0",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120348,
+        "guid": "d5e3c6be-d2f5-4b70-8b12-d0c065734bb0",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "543uOkwyxE5SGs4GXZ5G_w"
+      },
+      "props": {
+        "productType": "NBB0,6-3M22-E0",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-3M22-E0",
+        "productImageRef": [
+          2122075
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143025015",
+        "switchFrequency": 1400000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "206379"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E0-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120349,
+        "guid": "f7385417-9cf4-4a04-a334-95532c863890",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "L6xNJHawwYKb7FYI8AL8bQ"
+      },
+      "props": {
+        "productType": "NBB0,6-3M22-E0-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-3M22-E0-0,3M-V3",
+        "productImageRef": [
+          2122076
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1400000,
+        "gtin": "4050143031283",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224125"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120350,
+        "guid": "2d041fd2-95b0-4b83-801a-ec223dec4572",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "7zUeO4jqpmeScp9zTqkLlg"
+      },
+      "props": {
+        "productType": "NBB0,6-3M22-E1",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally closed (NC), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-3M22-E1",
+        "productImageRef": [
+          2122077
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143220427",
+        "switchFrequency": 1300000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "218334"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120351,
+        "guid": "10461054-20cd-4511-8f27-75183291643e",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "7p3iLwAnPmcqZ5mQ17BZVQ"
+      },
+      "props": {
+        "productType": "NBB0,6-3M22-E2",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-3M22-E2",
+        "productImageRef": [
+          2122078
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143024261",
+        "switchFrequency": 1400000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "204254"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E2-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120352,
+        "guid": "4b644c04-be3a-4f1f-9640-b5852f9eee29",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "rXc0mgs3Tc0dgp8KOnL_wA"
+      },
+      "props": {
+        "productType": "NBB0,6-3M22-E2-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-3M22-E2-0,3M-V3",
+        "productImageRef": [
+          2122079
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1400000,
+        "gtin": "4050143031290",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224126"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120353,
+        "guid": "3be6c35a-f802-4328-8e51-6e351051cdb7",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "KCtO8GLTU_sFqi_dK9UJ4Q"
+      },
+      "props": {
+        "productType": "NBB0,6-3M22-E3",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-3M22-E3",
+        "productImageRef": [
+          2122080
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143119417",
+        "switchFrequency": 1300000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "218335"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-4GM22-E0",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120354,
+        "guid": "3efaa127-1dcf-4a29-8473-5b8246457fc3",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "OT_oOig5NzO7GDza9LZ-UQ"
+      },
+      "props": {
+        "productType": "NBB0,6-4GM22-E0",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-4GM22-E0",
+        "productImageRef": [
+          2122081
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143025022",
+        "switchFrequency": 1400000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "206380"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-4GM22-E1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120355,
+        "guid": "fd26067c-c9ea-45ff-84e0-708ae91210dc",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "q5n2SlSm_2aWZS6QaOwDXA"
+      },
+      "props": {
+        "productType": "NBB0,6-4GM22-E1",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally closed (NC), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-4GM22-E1",
+        "productImageRef": [
+          2122082
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143029686",
+        "switchFrequency": 1300000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "220684"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-4GM22-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120356,
+        "guid": "cb248265-cbc3-4f20-99e7-99966530f5b4",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "xboLytNIxZTt-cb5F-m-uw"
+      },
+      "props": {
+        "productType": "NBB0,6-4GM22-E2",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-4GM22-E2",
+        "productImageRef": [
+          2122083
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143025039",
+        "switchFrequency": 1400000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "206381"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-4GM22-E2-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120357,
+        "guid": "77a8e2ac-2593-4bf9-b30a-eeeea4579d1b",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "RsFSiM4bfxiKs1YJGSFuQw"
+      },
+      "props": {
+        "productType": "NBB0,6-4GM22-E2-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-4GM22-E2-0,3M-V3",
+        "productImageRef": [
+          2122084
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1400000,
+        "gtin": "4050143031313",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224130"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-4GM22-E3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120358,
+        "guid": "73ab46d9-d1ca-4afa-812c-d6af34b285bd",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "HglncQ5_-bRntCXIU5B18w"
+      },
+      "props": {
+        "productType": "NBB0,6-4GM22-E3",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-4GM22-E3",
+        "productImageRef": [
+          2122085
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143029693",
+        "switchFrequency": 1300000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "220685"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-5GS20-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120359,
+        "guid": "a63f359e-b4e3-4456-b6e3-3ff53b8d188a",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "iW97D0IiTHbcRA5wCH8QUA"
+      },
+      "props": {
+        "productType": "NBB0,6-5GS20-E2",
+        "manufacturerProductDescription": "Rated operating distance: 0.6 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,6-5GS20-E2",
+        "productImageRef": [
+          2122086
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "switchFrequency": 5000000,
+        "voltageType": 2113549,
+        "gtin": "4050143044542",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "265893"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E0",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120360,
+        "guid": "1c7726c3-f424-4fb3-bdf8-bae1d407cc35",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "9z3TuyfSCITiJQa2kzCLxQ"
+      },
+      "props": {
+        "productType": "NBB0,8-4M25-E0",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-4M25-E0",
+        "productImageRef": [
+          2122087
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143015108",
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "134078"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E0 PUR",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120361,
+        "guid": "8cb3f8f0-a1d7-4f5d-8675-c84782dd9284",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "oKNOt2lDWlxpNDG-Ba9STA"
+      },
+      "props": {
+        "productType": "NBB0,8-4M25-E0 PUR",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-4M25-E0 PUR",
+        "productImageRef": [
+          2122088
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143248858",
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "195621"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E0-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120362,
+        "guid": "35b5e9ea-4b47-4970-9eb8-b4f3642d8dad",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "e7IHPtVEbADfZ2OYg3Ye7w"
+      },
+      "props": {
+        "productType": "NBB0,8-4M25-E0-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-4M25-E0-0,3M-V3",
+        "productImageRef": [
+          2122089
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143031344",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224133"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E0-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120363,
+        "guid": "dfb85f85-6843-44ba-8c57-48e5f9e3a77f",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "9X3l9htfNdS84slELotAGA"
+      },
+      "props": {
+        "productType": "NBB0,8-4M25-E0-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-4M25-E0-V3",
+        "productImageRef": [
+          2122090
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 45,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143286126",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "213043"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120364,
+        "guid": "393877ba-f2d0-4ee2-8950-65748f4dbacf",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "4gZIasTYiajhO_gx1659sQ"
+      },
+      "props": {
+        "productType": "NBB0,8-4M25-E1",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally closed (NC), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-4M25-E1",
+        "productImageRef": [
+          2122091
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143080939",
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "134079"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120365,
+        "guid": "359b835f-bb4e-4bcc-86f5-a315a9cd838c",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "xJYpfMFeRcCzQfl6N6ufGA"
+      },
+      "props": {
+        "productType": "NBB0,8-4M25-E2",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-4M25-E2",
+        "productImageRef": [
+          2122092
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143004348",
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "053378"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E2-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120366,
+        "guid": "8201499a-b1d4-4477-a86d-d4b38f9dfa8c",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "yT6qRYUZNUvdb2eX936dSg"
+      },
+      "props": {
+        "productType": "NBB0,8-4M25-E2-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-4M25-E2-0,3M-V3",
+        "productImageRef": [
+          2122093
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143031351",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224134"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E2-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120367,
+        "guid": "6361e019-4c6b-4068-a7ed-582043525ee9",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "lNGdd7BzbfpqhGIKT9vcsg"
+      },
+      "props": {
+        "productType": "NBB0,8-4M25-E2-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-4M25-E2-V3",
+        "productImageRef": [
+          2122094
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 45,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143027323",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "213042"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120368,
+        "guid": "7355229f-d6ef-42db-8d64-f43bbea460c5",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "1-y2SVrCAY82xzZCxuOsWw"
+      },
+      "props": {
+        "productType": "NBB0,8-4M25-E3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-4M25-E3",
+        "productImageRef": [
+          2122095
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143004355",
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "053487"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4S25-E2-0,2M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120369,
+        "guid": "02ee4e92-f440-4c28-a016-a2cad8e1dd58",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "MGu1eyYWceVS4toxCHpZKA"
+      },
+      "props": {
+        "productType": "NBB0,8-4S25-E2-0,2M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-4S25-E2-0,2M-V3",
+        "productImageRef": [
+          2122096
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 5000000,
+        "gtin": "4050143044535",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "265892"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E0",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120370,
+        "guid": "7ba94bbc-7a93-46a1-a154-24781c6725b6",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "FhM1QVumDIOS9yyNpCIt0Q"
+      },
+      "props": {
+        "productType": "NBB0,8-5GM25-E0",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-5GM25-E0",
+        "productImageRef": [
+          2122097
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143015061",
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "134072"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E0-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120371,
+        "guid": "b7677f2e-20ae-4c7d-9e02-b92d09fcdc14",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "v8taeEwZAHwvQOnhM6enuQ"
+      },
+      "props": {
+        "productType": "NBB0,8-5GM25-E0-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-5GM25-E0-0,3M-V3",
+        "productImageRef": [
+          2122098
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143031368",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224135"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E0-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120372,
+        "guid": "f2e0df5d-aad0-40c7-81cd-24ce024cc875",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "cFwfUv47i6umaYVV62GOyQ"
+      },
+      "props": {
+        "productType": "NBB0,8-5GM25-E0-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0.1 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-5GM25-E0-V3",
+        "productImageRef": [
+          2122099
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 45,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143015078",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "134075"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120373,
+        "guid": "27459b4f-477c-414b-be09-10a334e2a08b",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "BsDChRpzVWEnceb_vKQwGg"
+      },
+      "props": {
+        "productType": "NBB0,8-5GM25-E1",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally closed (NC), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-5GM25-E1",
+        "productImageRef": [
+          2122100
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143015085",
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "134076"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120375,
+        "guid": "4e9199f4-7b07-4523-9c8c-cbf761f35e63",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "d6TNS_PetagxdKTBtqhIug"
+      },
+      "props": {
+        "productType": "NBB0,8-5GM25-E2",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-5GM25-E2",
+        "productImageRef": [
+          2122101
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143004362",
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "053491"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E2-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120376,
+        "guid": "b999647e-7fa8-4df4-af03-1900924e0dd3",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "lWytWXWVefPgNyfTZLzndQ"
+      },
+      "props": {
+        "productType": "NBB0,8-5GM25-E2-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-5GM25-E2-0,3M-V3",
+        "productImageRef": [
+          2122102
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143031375",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224136"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E2-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120377,
+        "guid": "0d282128-783d-4aa5-a299-3d52b53c77f7",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "1OgvbxOu6VPTQFJhRBfQSQ"
+      },
+      "props": {
+        "productType": "NBB0,8-5GM25-E2-V3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0.1 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-5GM25-E2-V3",
+        "productImageRef": [
+          2122103
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 45,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143011957",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "120377"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120378,
+        "guid": "c8764f11-cfd1-4750-9774-7e053a65648f",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "6fzdS8r7gQ-RE7V1ImXg8A"
+      },
+      "props": {
+        "productType": "NBB0,8-5GM25-E3",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-5GM25-E3",
+        "productImageRef": [
+          2122104
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143004379",
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "053492"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-F141-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120379,
+        "guid": "53c8d4c8-b096-4ca5-aed4-96764d200c25",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "fJYyeFr1-js_JkdqwJ6klA"
+      },
+      "props": {
+        "productType": "NBB0,8-F141-E2",
+        "manufacturerProductDescription": "Rated operating distance: 0.8 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB0,8-F141-E2",
+        "productImageRef": [
+          2122105
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 85,
+        "lengthOfSensor": 25,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 10000000,
+        "gtin": "4050143033638",
+        "heightOfSensor": 5,
+        "widthOfSensor": 5,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "231910"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-4M25-E0-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120380,
+        "guid": "c033452b-1e23-4a92-a025-e82e8a4c6e91",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "QyBFm48il-FSsBY5JZmoow"
+      },
+      "props": {
+        "productType": "NBB1,5-4M25-E0-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-4M25-E0-V3",
+        "productImageRef": [
+          2122106
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 38,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143023455",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "202174"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-5GM25-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120381,
+        "guid": "fd398cae-3107-44d4-b1a2-c14a7e6b60fc",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "L7gCBhbSThHJJ0s21ONc-g"
+      },
+      "props": {
+        "productType": "NBB1,5-5GM25-E2",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-5GM25-E2",
+        "productImageRef": [
+          2122107
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 25,
+        "voltageType": 2113549,
+        "gtin": "4050143023424",
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "202166"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-5GM25-E2-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120382,
+        "guid": "fb83684b-efde-4873-83d8-2da322426dfe",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "d-bVnNfPJC_mKaqshhGTEQ"
+      },
+      "props": {
+        "productType": "NBB1,5-5GM25-E2-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-5GM25-E2-V3",
+        "productImageRef": [
+          2122108
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 38,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143024599",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "204745"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-5GM25-E3-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120383,
+        "guid": "911eac51-f5ff-4fb9-9bc8-d9d7e205d06d",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "99kHHRkQU4ZagyBMnNA8IQ"
+      },
+      "props": {
+        "productType": "NBB1,5-5GM25-E3-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-5GM25-E3-V3",
+        "productImageRef": [
+          2122109
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 38,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "gtin": "4050143024605",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "204746"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S16-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120384,
+        "guid": "f9c6a215-b85c-466d-a867-2af223fc1832",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "pgkCAb5tecnOs1bxug4KXA"
+      },
+      "props": {
+        "productType": "NBB1,5-6,5S16-E2",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-6,5S16-E2",
+        "productImageRef": [
+          2122110
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 85,
+        "lengthOfSensor": 16,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 6000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "236530"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S16-E3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120385,
+        "guid": "19a5f517-6085-4b5a-9198-f27f11b7d592",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "So1EuIsznGwy84z30i19WQ"
+      },
+      "props": {
+        "productType": "NBB1,5-6,5S16-E3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-6,5S16-E3",
+        "productImageRef": [
+          2122111
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 85,
+        "lengthOfSensor": 16,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 6000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "243191"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S30-E2-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120386,
+        "guid": "1605a10f-c1bd-4347-8e4e-bca685cd8421",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "exw3kJKPfvGsAFVAsvdpuA"
+      },
+      "props": {
+        "productType": "NBB1,5-6,5S30-E2-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-6,5S30-E2-0,3M-V3",
+        "productImageRef": [
+          2122112
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 85,
+        "lengthOfSensor": 30,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 6000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "236531"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S35-E0",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120387,
+        "guid": "12171859-9f36-44b6-84d7-4288e824272a",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "ORETNJWvffImRAwRkSCF1Q"
+      },
+      "props": {
+        "productType": "NBB1,5-6,5S35-E0",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-6,5S35-E0",
+        "productImageRef": [
+          2122113
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 85,
+        "lengthOfSensor": 35,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1500000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "236516"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S40-E0-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120388,
+        "guid": "90b4244c-e310-4c8b-bf18-bfe9fa774d00",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "L_XA58vRA2tVkEPeo9fc3g"
+      },
+      "props": {
+        "productType": "NBB1,5-6,5S40-E0-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-6,5S40-E0-V3",
+        "productImageRef": [
+          2122114
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 85,
+        "lengthOfSensor": 45,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1500000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "236521"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S40-E2-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120389,
+        "guid": "99bd90b3-08bf-4a7d-8e0d-3c47e12cb2b7",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "l7sM9wfoKVTyep23K3jAzQ"
+      },
+      "props": {
+        "productType": "NBB1,5-6,5S40-E2-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-6,5S40-E2-V3",
+        "productImageRef": [
+          2122115
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 85,
+        "lengthOfSensor": 45,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1500000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "236519"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S40-E3-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120390,
+        "guid": "5ba3b2df-f501-4048-bb4b-0f42dd8d0533",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "oZ5pw7xb9iSJp_2QAL7_Yg"
+      },
+      "props": {
+        "productType": "NBB1,5-6,5S40-E3-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-6,5S40-E3-V3",
+        "productImageRef": [
+          2122116
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 85,
+        "lengthOfSensor": 45,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 2000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "236517"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM16-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120391,
+        "guid": "0c7216dc-ea5b-4b17-ac6c-2945c08bb6ee",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "yRnpZcfSJHOh82DJGf-pRA"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM16-E2",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM16-E2",
+        "productImageRef": [
+          2122117
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 85,
+        "lengthOfSensor": 16,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 6000000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "236534"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM30-E2-C-V1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120392,
+        "guid": "7b2088e2-e83c-4686-b218-4fe6f79c6a6c",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "TQZo8qFCwWbHbQYMPp-ekA"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM30-E2-C-V1",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM30-E2-C-V1",
+        "productImageRef": [
+          2122118
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 30,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1800000,
+        "gtin": "4050143005604",
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "086787"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E0-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120393,
+        "guid": "b28e5cf6-1343-4b6f-84bd-bd68ed5e907b",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "ek-kcLTzQjKiJMLggazXzw"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM40-E0-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM40-E0-V3",
+        "productImageRef": [
+          2122119
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 50,
+        "minOperatingAmbientTemperature": -25,
+        "voltageType": 2113549,
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113218,
+        "productArticleNumberOfManufacturer": "197151"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E2-C",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120394,
+        "guid": "ce83c9ee-9111-42b5-a332-e567332f5706",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "5AdAp2caWWepkWaD8cHlTg"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM40-E2-C",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM40-E2-C",
+        "productImageRef": [
+          2122120
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 40,
+        "voltageType": 2113549,
+        "gtin": "4050143005611",
+        "switchFrequency": 1800000,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "086788"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E2-C-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120395,
+        "guid": "4d9d9d12-cad9-428b-b130-e28bf991aafd",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "vJ7G26QHS4p_duHT7DQ0ig"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM40-E2-C-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM40-E2-C-V3",
+        "productImageRef": [
+          2122121
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 40,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1800000,
+        "gtin": "4050143005628",
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "086789"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E2-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120396,
+        "guid": "174109c6-6953-4f87-8fd0-78ddd8a3e7ad",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "C5F3tU8W_V60dZ8nNEyjMA"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM40-E2-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM40-E2-V3",
+        "productImageRef": [
+          2122122
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 50,
+        "minOperatingAmbientTemperature": -25,
+        "voltageType": 2113549,
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "productArticleNumberOfManufacturer": "197152"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120397,
+        "guid": "e227d4fc-668e-4516-b247-cc05f2710690",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "RX15lMiHrzrDlUeYs980lA"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM40-E3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM40-E3",
+        "productImageRef": [
+          2122123
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 40,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "108931"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E3-V1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120398,
+        "guid": "eba0b1b6-7d47-4846-bdf9-e6f60fe8101e",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "q5c38WxoxwGoLZYZsIJwLg"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM40-E3-V1",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM40-E3-V1",
+        "productImageRef": [
+          2122124
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 40,
+        "minOperatingAmbientTemperature": -25,
+        "voltageType": 2113549,
+        "switchFrequency": 3000000,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "productArticleNumberOfManufacturer": "121183"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-Z0",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120399,
+        "guid": "24b96682-40fd-4faa-8eea-008b197ebb84",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "9ARUVdrcOsZFGf0AbJpRzQ"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM40-Z0",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: Two-wire, Operating voltage: 5 ... 60 V, Operating current: 2 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM40-Z0",
+        "productImageRef": [
+          2122125
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 40,
+        "voltageType": 2113549,
+        "gtin": "4050143006540",
+        "switchFrequency": 1200000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113226,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "088534"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-Z1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120400,
+        "guid": "cb6a71de-253d-4ae4-b1d8-80811db52e06",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "MAD5kq72SY3cLkfYb8eERw"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM40-Z1",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: Two-wire, Operating voltage: 5 ... 60 V, Operating current: 2 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM40-Z1",
+        "productImageRef": [
+          2122126
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 40,
+        "voltageType": 2113549,
+        "gtin": "4050143006564",
+        "switchFrequency": 1200000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113226,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "088536"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM50-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120401,
+        "guid": "b21d4c98-6033-4d0c-a28e-305faad1c0b4",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "J1n01MAaoAtxTudhqCmWrg"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM50-E2",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM50-E2",
+        "productImageRef": [
+          2122127
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 50,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1500000,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "801374"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM50-Z3-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120403,
+        "guid": "433b40ed-9632-46f8-b2dc-4812c311e7bc",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "-k8Kexv-77zU1NPsrBTPUw"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM50-Z3-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: Two-wire, Operating voltage: 5 ... 60 V, Operating current: 2 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM50-Z3-V3",
+        "productImageRef": [
+          2122128
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 48,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1200000,
+        "gtin": "4050143006557",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113226,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "088535"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM60-A0",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120404,
+        "guid": "916a6ff7-a8a9-48c9-92c3-cfe6263c0668",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "rRBVtocILVl3V3lFRs8poQ"
+      },
+      "props": {
+        "productType": "NBB1,5-8GM60-A0",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: complementary, Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GM60-A0",
+        "productImageRef": [
+          2122129
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "designOfControlElement": 2113571,
+        "lengthOfSensor": 60,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1500000,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "084950"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GS30-E2-T",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120405,
+        "guid": "eee07574-b419-4763-8dd4-f21166425ffb",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "khbuBykrG3utehNPZ5If4A"
+      },
+      "props": {
+        "productType": "NBB1,5-8GS30-E2-T",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GS30-E2-T",
+        "productImageRef": [
+          2122130
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 100,
+        "lengthOfSensor": 34.5,
+        "voltageType": 2113549,
+        "gtin": "4050143035311",
+        "switchFrequency": 1500000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "236474"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GS40-E2-T-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120406,
+        "guid": "880d78b5-1d43-4577-83dd-94ea2d143a32",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "Q05uuCqf2nbpfqf1LWbl6Q"
+      },
+      "props": {
+        "productType": "NBB1,5-8GS40-E2-T-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 200 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-8GS40-E2-T-V3",
+        "productImageRef": [
+          2122131
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 100,
+        "lengthOfSensor": 45,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1500000,
+        "gtin": "4050143035328",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "236476"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120407,
+        "guid": "dcfe6805-cc33-49b9-8d1f-0f9f3355dc63",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "hTYSzlwlpai6N_ZgQ8ZvrA"
+      },
+      "props": {
+        "productType": "NBB1,5-F41-E2",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F41-E2",
+        "productImageRef": [
+          2122132
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 40,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1500000,
+        "gtin": "4050143005352",
+        "heightOfSensor": 8,
+        "widthOfSensor": 8,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "085651"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41-E2-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120408,
+        "guid": "d487b106-a63c-4e09-a281-287dd9989133",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "XFK98Wpq6k6s1SnRRZeEBg"
+      },
+      "props": {
+        "productType": "NBB1,5-F41-E2-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F41-E2-V3",
+        "productImageRef": [
+          2122133
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 46,
+        "minOperatingAmbientTemperature": -25,
+        "voltageType": 2113549,
+        "heightOfSensor": 8,
+        "switchFrequency": 1500000,
+        "gtin": "4050143005369",
+        "widthOfSensor": 8,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "productArticleNumberOfManufacturer": "085652"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41-E3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120409,
+        "guid": "a5eaa3c8-ec76-4519-bcab-042141bda4d7",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "EgIPo7nGr3ixp7Sqt44Vmw"
+      },
+      "props": {
+        "productType": "NBB1,5-F41-E3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F41-E3",
+        "productImageRef": [
+          2122134
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 40,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1500000,
+        "gtin": "4050143005376",
+        "heightOfSensor": 8,
+        "widthOfSensor": 8,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "085653"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41-E3-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120411,
+        "guid": "3fb88f0e-78c8-42b3-bb44-2ba684a26423",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "Un0M-HxTkBq3LsRLrvBKbg"
+      },
+      "props": {
+        "productType": "NBB1,5-F41-E3-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F41-E3-V3",
+        "productImageRef": [
+          2122135
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 46,
+        "minOperatingAmbientTemperature": -25,
+        "voltageType": 2113549,
+        "heightOfSensor": 8,
+        "switchFrequency": 1500000,
+        "gtin": "4050143005383",
+        "widthOfSensor": 8,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "productArticleNumberOfManufacturer": "085654"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41A-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120412,
+        "guid": "5799334a-27e8-4690-a2ad-888d025bd54b",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "PVgVlLHGvGx4tJGbM0tPVA"
+      },
+      "props": {
+        "productType": "NBB1,5-F41A-E2",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F41A-E2",
+        "productImageRef": [
+          2122136
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 40,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1500000,
+        "gtin": "4050143005390",
+        "heightOfSensor": 8,
+        "widthOfSensor": 8,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "085655"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41A-E2-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120413,
+        "guid": "88b6af1c-6e91-4abc-bc2a-cd652750778a",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "baQPJek0ACVVM9X3MwAQwA"
+      },
+      "props": {
+        "productType": "NBB1,5-F41A-E2-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F41A-E2-V3",
+        "productImageRef": [
+          2122137
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 46,
+        "minOperatingAmbientTemperature": -25,
+        "voltageType": 2113549,
+        "heightOfSensor": 8,
+        "switchFrequency": 1500000,
+        "gtin": "4050143005406",
+        "widthOfSensor": 8,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "productArticleNumberOfManufacturer": "085656"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41A-E3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120414,
+        "guid": "d2bc2108-4366-40e6-8343-29ea1d04d3ae",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "0NrpMOKhOs-Iv5mdP-kxmQ"
+      },
+      "props": {
+        "productType": "NBB1,5-F41A-E3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F41A-E3",
+        "productImageRef": [
+          2122138
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 40,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1500000,
+        "gtin": "4050143005413",
+        "heightOfSensor": 8,
+        "widthOfSensor": 8,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "085657"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41A-E3-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120415,
+        "guid": "def09b9c-a2aa-4bcc-908e-d67ac264b1a9",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "oNqs2XxA5qJ2Rq6Qay0cAw"
+      },
+      "props": {
+        "productType": "NBB1,5-F41A-E3-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 10 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F41A-E3-V3",
+        "productImageRef": [
+          2122139
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 46,
+        "minOperatingAmbientTemperature": -25,
+        "voltageType": 2113549,
+        "heightOfSensor": 8,
+        "switchFrequency": 1500000,
+        "gtin": "4050143005420",
+        "widthOfSensor": 8,
+        "materialOfHousing": 2113495,
+        "designOfControlOutput": 2113221,
+        "productArticleNumberOfManufacturer": "085658"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E0",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120416,
+        "guid": "bf6ec4a0-9d84-4b58-8d45-5c5bcb81cf38",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "TLBkKEZogwz5tk6NJ-Eizg"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E0",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E0",
+        "productImageRef": [
+          2122140
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143055210",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "800000"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E0-0,1M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120417,
+        "guid": "28b6f8f7-feee-4b41-a782-378787885504",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "5mBQAw_eLf7c6CWM9NV3jg"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E0-0,1M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E0-0,1M-V3",
+        "productImageRef": [
+          2122141
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1200000,
+        "gtin": "4050143031238",
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224030"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E0-0,5M",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120418,
+        "guid": "8e263949-a9ce-4af4-b8c4-233640067944",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "V8fuz0PGrdhTaY1Ht-BWzA"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E0-0,5M",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E0-0,5M",
+        "productImageRef": [
+          2122142
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143317615",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "224006"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E0-5M",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120419,
+        "guid": "9555d618-d370-4eb1-93f4-fe8c9b5f63e1",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "oPT9QDcVcvzZUtoPXQ4Upg"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E0-5M",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E0-5M",
+        "productImageRef": [
+          2122143
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143046331",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "269259"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E1",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120420,
+        "guid": "484ff31d-f7f1-4aed-adb3-72ff6aee91fc",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "KcFZ5REkAbmEYL-kptxgBw"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E1",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: NPN, Operating voltage: 5 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E1",
+        "productImageRef": [
+          2122144
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143055425",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "801106"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E1-0,1M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120421,
+        "guid": "8ba64dfe-8d84-495a-907d-51c3301b1897",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "nNHn2iNuA6eIJ3HOEwwo-w"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E1-0,1M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: NPN, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E1-0,1M-V3",
+        "productImageRef": [
+          2122145
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1200000,
+        "gtin": "4050143285464",
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224031"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E1-0,5M",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120422,
+        "guid": "55991ea0-a588-49e2-bbdf-6ecb03ca217d",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "MNgXmJBsqoqSsIIoR_NjwQ"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E1-0,5M",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: NPN, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E1-0,5M",
+        "productImageRef": [
+          2122146
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143031214",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "224007"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E1-5M",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120423,
+        "guid": "860cbafa-aeea-4bb1-89c6-f1f89d41b852",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "daa0DXkj2CKwljKBhsSIwA"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E1-5M",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: NPN, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E1-5M",
+        "productImageRef": [
+          2122147
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143227402",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "269260"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120424,
+        "guid": "41f9f299-d6fb-470b-b501-c80abe5e506c",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "vcDRtoti3ysAdaxaXYiBFA"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E2",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E2",
+        "productImageRef": [
+          2122148
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143055227",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "800001"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E2-0,1M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120425,
+        "guid": "b03c782b-42c1-49f2-946a-84eb95944c6d",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "ZA-AuiysLcEjpVP-z5YLvw"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E2-0,1M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E2-0,1M-V3",
+        "productImageRef": [
+          2122149
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1200000,
+        "gtin": "4050143031245",
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224032"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E2-0,5M",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120426,
+        "guid": "d2ffd525-32ba-4179-b61b-2eb386bce95e",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "ANfj_bI-1KI_OSeq8Jf24g"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E2-0,5M",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E2-0,5M",
+        "productImageRef": [
+          2122150
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143031221",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "224008"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E2-2M",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120427,
+        "guid": "94faf454-d883-4bf9-8357-0df3ac86b545",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "jgzp7M_3o_f8ScfA0wXiGQ"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E2-2M",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E2-2M",
+        "productImageRef": [
+          2122151
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143032785",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "228723"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E2-5M",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120428,
+        "guid": "60721367-d611-44e5-a53c-fd624c4bb447",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "PhZPMkIOBA73ik81auCa0Q"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E2-5M",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E2-5M",
+        "productImageRef": [
+          2122152
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143046348",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "269261"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120429,
+        "guid": "c0339095-e6f6-405c-b6ab-e5be69d6554f",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "tZZv2zzaZZyO3E5L-I3Apg"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E3",
+        "productImageRef": [
+          2122153
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143055432",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "801107"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E3-0,1M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120430,
+        "guid": "598e4961-1eac-45c4-804a-84e61e2ee25d",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "96vJQJqM8dfKYov-g91xOA"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E3-0,1M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E3-0,1M-V3",
+        "productImageRef": [
+          2122154
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 1200000,
+        "gtin": "4050143031252",
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224033"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E3-0,5M",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120431,
+        "guid": "ec5d2a47-590b-4973-8976-f4a313c096db",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "s_npyjtLWhsoYHyDFM_5qg"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E3-0,5M",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E3-0,5M",
+        "productImageRef": [
+          2122155
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143117000",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "224009"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E3-5M",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120432,
+        "guid": "c6219198-7017-450f-a862-871f262d6079",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "saw4IVsyQR4nRsjR63DPnw"
+      },
+      "props": {
+        "productType": "NBB1,5-F79-E3-5M",
+        "manufacturerProductDescription": "Rated operating distance: 1.5 mm, Installation: flush, Switching function: Normally closed (NC), Output type: PNP, Operating voltage: 5 ... 30 V DC, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1,5-F79-E3-5M",
+        "productImageRef": [
+          2122156
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113553,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 16,
+        "voltageType": 2113549,
+        "gtin": "4050143046355",
+        "switchFrequency": 1200000,
+        "heightOfSensor": 4.7,
+        "widthOfSensor": 8,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "269262"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-3M22-E0",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120433,
+        "guid": "4c33ab0f-33b9-46e3-94c2-445e17f2d1e8",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "Qufi-wnuk4et19EF1a-OVg"
+      },
+      "props": {
+        "productType": "NBB1-3M22-E0",
+        "manufacturerProductDescription": "Rated operating distance: 1 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1-3M22-E0",
+        "productImageRef": [
+          2122157
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143150656",
+        "switchFrequency": 700000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "206382"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-3M22-E0-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120434,
+        "guid": "98149ec2-e70c-407f-bc88-8b031cc8b823",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "WWNBkmXAlcxZSkzIiFdFXQ"
+      },
+      "props": {
+        "productType": "NBB1-3M22-E0-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1-3M22-E0-0,3M-V3",
+        "productImageRef": [
+          2122158
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 700000,
+        "gtin": "4050143084036",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224127"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-3M22-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120435,
+        "guid": "1576e408-edea-4dd7-89d6-6cbcd7703e26",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "c0bj0CZEoWETCyME--pZ_Q"
+      },
+      "props": {
+        "productType": "NBB1-3M22-E2",
+        "manufacturerProductDescription": "Rated operating distance: 1 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1-3M22-E2",
+        "productImageRef": [
+          2122159
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143025046",
+        "switchFrequency": 700000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "206383"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-3M22-E2-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120436,
+        "guid": "1a2d9922-df04-4213-ae25-d7b4be88eeab",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "KHV5O-EHVB35EpdDH-BHxg"
+      },
+      "props": {
+        "productType": "NBB1-3M22-E2-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1-3M22-E2-0,3M-V3",
+        "productImageRef": [
+          2122160
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113557,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 700000,
+        "gtin": "4050143031306",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224128"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-4GM22-E0",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120437,
+        "guid": "daa389da-eeac-4b40-9988-57e348c5e890",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "XjXE50fvd4gVeLHeBUk5lQ"
+      },
+      "props": {
+        "productType": "NBB1-4GM22-E0",
+        "manufacturerProductDescription": "Rated operating distance: 1 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1-4GM22-E0",
+        "productImageRef": [
+          2122161
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143025053",
+        "switchFrequency": 700000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "206384"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-4GM22-E0-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120438,
+        "guid": "f2c78bbb-f192-43ca-ac69-ca9e8cc340b4",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "85nhPtNqICpsQb0-mHPgQA"
+      },
+      "props": {
+        "productType": "NBB1-4GM22-E0-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1 mm, Installation: flush, Switching function: Normally open (NO), Output type: NPN, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1-4GM22-E0-0,3M-V3",
+        "productImageRef": [
+          2122162
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 700000,
+        "gtin": "4050143031320",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113218,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224131"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-4GM22-E2",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120439,
+        "guid": "fbb63bbd-b9a8-4062-a1d3-658b179c6501",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "rSyIz3LgnbM2j2rI4tnvpA"
+      },
+      "props": {
+        "productType": "NBB1-4GM22-E2",
+        "manufacturerProductDescription": "Rated operating distance: 1 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1-4GM22-E2",
+        "productImageRef": [
+          2122163
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "voltageType": 2113549,
+        "gtin": "4050143025060",
+        "switchFrequency": 700000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "206385"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-4GM22-E2-0,3M-V3",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120440,
+        "guid": "1598fd6b-fa00-403d-b66e-9b5cc5a88633",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "lfaCII6W-BEm5j0gyuWS6A"
+      },
+      "props": {
+        "productType": "NBB1-4GM22-E2-0,3M-V3",
+        "manufacturerProductDescription": "Rated operating distance: 1 mm, Installation: flush, Switching function: Normally open (NO), Output type: PNP, Operating voltage: 10 ... 30 V, Operating current: 0 ... 100 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1-4GM22-E2-0,3M-V3",
+        "productImageRef": [
+          2122164
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 70,
+        "lengthOfSensor": 22,
+        "minOperatingAmbientTemperature": -25,
+        "switchFrequency": 700000,
+        "gtin": "4050143031337",
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113221,
+        "voltageType": 2113549,
+        "productArticleNumberOfManufacturer": "224132"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-8GS50-Z0-T",
+      "displayIcon": 98,
+      "meta": {
+        "id": 2120441,
+        "guid": "7c80f325-76e6-472d-b760-0c74778fb3c7",
+        "typeRef": 2112986,
+        "type": "product",
+        "lastTransaction": 7019,
+        "lastModified": "2022-04-28T09:31:17.1901199Z",
+        "deleted": false,
+        "etag": "Rxw-yH2Aw4R0B_z_DCIBrA"
+      },
+      "props": {
+        "productType": "NBB1-8GS50-Z0-T",
+        "manufacturerProductDescription": "Rated operating distance: 1 mm, Installation: flush, Switching function: Normally open (NO), Output type: Two-wire, Operating voltage: 15 ... 34 V, Operating current: 0 ... 25 mA",
+        "manufacturerProductDesignation": "Inductive sensor NBB1-8GS50-Z0-T",
+        "productImageRef": [
+          2122165
+        ],
+        "manufacturerName": "Pepperl+Fuchs",
+        "housingConstructionForm": 2113556,
+        "maxOperatingAmbientTemperature": 100,
+        "lengthOfSensor": 50,
+        "voltageType": 2113549,
+        "gtin": "4050143285037",
+        "switchFrequency": 1500000,
+        "materialOfHousing": 2113521,
+        "designOfControlOutput": 2113226,
+        "minOperatingAmbientTemperature": -25,
+        "productArticleNumberOfManufacturer": "236475"
+      }
+    }
+  ],
+  "refs": [
+    {
+      "displayName": "Inductive sensor 3RG4022-3CD00-PF_productimage",
+      "displayIcon": 121,
+      "meta": {
+        "id": 2122062,
+        "guid": "27c5ca3b-d8f6-45a4-bfde-d6225c9726a5",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4612,
+        "lastModified": "2021-03-23T09:00:50.0134162Z",
+        "deleted": false,
+        "etag": "SBg3OxcBHrecKlu5pAvlwA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_552877_01.jpg",
+        "externalBinaryMD5": "77be18b5-3d72-7823-12f1-0d53de5b6725"
+      }
+    },
+    {
+      "displayName": "Inductive sensor 921LC2_productimage",
+      "displayIcon": 125,
+      "meta": {
+        "id": 2122067,
+        "guid": "98f750c4-0e2b-4a15-ae3f-309a905cdb7a",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4616,
+        "lastModified": "2021-03-23T09:01:01.029144Z",
+        "deleted": false,
+        "etag": "OkJ8ML5iqSTx2sNLQ-GckQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_450097_01.jpg",
+        "externalBinaryMD5": "a423c25f-7b4d-7dfd-dd83-3f9659a90c01"
+      }
+    },
+    {
+      "displayName": "Inductive analog sensor ANT2-8 2084/85 V1_productimage",
+      "displayIcon": 118,
+      "meta": {
+        "id": 2122068,
+        "guid": "2bf2d513-b342-4a67-be51-65e169e279bb",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4609,
+        "lastModified": "2021-03-23T09:00:43.388372Z",
+        "deleted": false,
+        "etag": "K4L3ByyiqDPi6GywuCqGdA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_409633_01.jpg",
+        "externalBinaryMD5": "f4ab6e23-5e73-cca7-fcaa-a99435a8b446"
+      }
+    },
+    {
+      "displayName": "Inductive sensor FJ7-N_productimage",
+      "displayIcon": 129,
+      "meta": {
+        "id": 2122069,
+        "guid": "0c848a8b-7e35-4585-b496-78574bf7a769",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4621,
+        "lastModified": "2021-03-23T09:01:09.8573515Z",
+        "deleted": false,
+        "etag": "gDT3sMu0-2tiMjIJpR4E5g"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_306134_01.jpg",
+        "externalBinaryMD5": "5f93bb4c-da48-207d-c1c8-2e4ee1f023ab"
+      }
+    },
+    {
+      "displayName": "Inductive slot sensor GT3,0 50.000/0768_productimage",
+      "displayIcon": 139,
+      "meta": {
+        "id": 2122070,
+        "guid": "e473767a-d7c1-4b14-a6de-a028d908aa0f",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4641,
+        "lastModified": "2021-03-23T09:01:41.8106941Z",
+        "deleted": false,
+        "etag": "zRB-8BKZPcgBgFw30WMqyw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_416350_01.jpg",
+        "externalBinaryMD5": "3b2a8b5e-cafc-a8f0-eaae-f7bfd01ca900"
+      }
+    },
+    {
+      "displayName": "Inductive slot sensor GT3,51 50.000/0400_productimage",
+      "displayIcon": 120,
+      "meta": {
+        "id": 2122071,
+        "guid": "1a9b0360-5926-4780-ba49-27485025c7d0",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4611,
+        "lastModified": "2021-03-23T09:00:48.1072054Z",
+        "deleted": false,
+        "etag": "tzPxQVhdo3ksgJ3F3lZaFA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_416227_01.jpg",
+        "externalBinaryMD5": "b497b0df-f3ee-87c8-1655-260cc217966b"
+      }
+    },
+    {
+      "displayName": "Inductive analog sensor IA6-12GM35-U-V1_productimage",
+      "displayIcon": 126,
+      "meta": {
+        "id": 2122072,
+        "guid": "2caf493b-9bc6-43e0-93f6-e21c47ba120e",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4617,
+        "lastModified": "2021-03-23T09:01:03.3729268Z",
+        "deleted": false,
+        "etag": "2GThh0hm1LhPff6kB9D3Lw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_123389_01.jpg",
+        "externalBinaryMD5": "7bf5f353-7dea-26d5-78ea-0eaf7e0df495"
+      }
+    },
+    {
+      "displayName": "Inductive analog sensor IA6-12GM50-IU-V1_productimage",
+      "displayIcon": 149,
+      "meta": {
+        "id": 2122073,
+        "guid": "dfb4d2bc-bd55-41af-a063-69283bf4bc52",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4669,
+        "lastModified": "2021-03-23T09:02:38.9830042Z",
+        "deleted": false,
+        "etag": "p6xs7Tul9KmBbYQSp_DGdw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_123391_01.jpg",
+        "externalBinaryMD5": "2ac06c99-00ac-7ca6-0f92-2a386a9622c2"
+      }
+    },
+    {
+      "displayName": "Inductive analog sensor IA8-30GM-I3_productimage",
+      "displayIcon": 122,
+      "meta": {
+        "id": 2122074,
+        "guid": "2d45d1ea-f8c0-4234-84e7-c2c78c4b8dba",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4613,
+        "lastModified": "2021-03-23T09:00:51.888453Z",
+        "deleted": false,
+        "etag": "RGxxvzAA4FqJ4e48vr7miw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_015598_01.jpg",
+        "externalBinaryMD5": "07f8c0fb-7f23-2664-661c-5ce1a575dfb3"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E0_productimage",
+      "displayIcon": 123,
+      "meta": {
+        "id": 2122075,
+        "guid": "66126de8-d5fb-4489-9fc4-048a594e1668",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4624,
+        "lastModified": "2021-03-23T09:01:19.0448897Z",
+        "deleted": false,
+        "etag": "CW-V5dlffURt5NWsgJeAXg"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_206379_01.jpg",
+        "externalBinaryMD5": "06ef0b61-f06c-8a1e-b6f1-6a3feedb78d8"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E0-0,3M-V3_productimage",
+      "displayIcon": 123,
+      "meta": {
+        "id": 2122076,
+        "guid": "939039f3-7f65-4119-b391-dede0a984df3",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4626,
+        "lastModified": "2021-03-23T09:01:20.9043336Z",
+        "deleted": false,
+        "etag": "9HglI39nIoNAX8XU5FhBEw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224125_01.jpg",
+        "externalBinaryMD5": "06ef0b61-f06c-8a1e-b6f1-6a3feedb78d8"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E1_productimage",
+      "displayIcon": 123,
+      "meta": {
+        "id": 2122077,
+        "guid": "13005668-c131-4aff-b41e-0e9633024268",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4623,
+        "lastModified": "2021-03-23T09:01:15.1698775Z",
+        "deleted": false,
+        "etag": "O9WpxXOxLEAAcg1Gd2f7lQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_218334_01.jpg",
+        "externalBinaryMD5": "06ef0b61-f06c-8a1e-b6f1-6a3feedb78d8"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E2_productimage",
+      "displayIcon": 123,
+      "meta": {
+        "id": 2122078,
+        "guid": "373897ae-d08c-4c16-8d29-580e03a87914",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4614,
+        "lastModified": "2021-03-23T09:00:55.0759773Z",
+        "deleted": false,
+        "etag": "HFZHmCKvtnUVv_dl8p7TGA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_204254_01.jpg",
+        "externalBinaryMD5": "06ef0b61-f06c-8a1e-b6f1-6a3feedb78d8"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E2-0,3M-V3_productimage",
+      "displayIcon": 123,
+      "meta": {
+        "id": 2122079,
+        "guid": "a6588905-438b-4eb9-a5c7-5653dece4682",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4680,
+        "lastModified": "2021-03-23T09:03:01.8425351Z",
+        "deleted": false,
+        "etag": "EM3NzA5HMaS9VV1LUE5LhA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224126_01.jpg",
+        "externalBinaryMD5": "06ef0b61-f06c-8a1e-b6f1-6a3feedb78d8"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-3M22-E3_productimage",
+      "displayIcon": 123,
+      "meta": {
+        "id": 2122080,
+        "guid": "971d7052-581e-42ad-b1c3-8b873f072b62",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4657,
+        "lastModified": "2021-03-23T09:02:18.8266102Z",
+        "deleted": false,
+        "etag": "qKfCbMhOcW2Dp56QifsWzw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_218335_01.jpg",
+        "externalBinaryMD5": "06ef0b61-f06c-8a1e-b6f1-6a3feedb78d8"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-4GM22-E0_productimage",
+      "displayIcon": 134,
+      "meta": {
+        "id": 2122081,
+        "guid": "9b8f1ebb-ec15-4c51-9b79-8176fc85fe6b",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4629,
+        "lastModified": "2021-03-23T09:01:22.5449769Z",
+        "deleted": false,
+        "etag": "QDPAJmOeUbX8dv7gTyGw6A"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_206380_01.jpg",
+        "externalBinaryMD5": "1caa630d-a581-9528-da55-6d349d575d5b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-4GM22-E1_productimage",
+      "displayIcon": 134,
+      "meta": {
+        "id": 2122082,
+        "guid": "cb792613-9911-47cf-bee6-c93f4051d3a3",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4646,
+        "lastModified": "2021-03-23T09:01:49.5451393Z",
+        "deleted": false,
+        "etag": "0ypI7seHqVaEp_aHHdnO3g"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_220684_01.jpg",
+        "externalBinaryMD5": "1caa630d-a581-9528-da55-6d349d575d5b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-4GM22-E2_productimage",
+      "displayIcon": 134,
+      "meta": {
+        "id": 2122083,
+        "guid": "623ab6d2-8002-4bea-9bda-a843bf7d587b",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4637,
+        "lastModified": "2021-03-23T09:01:36.6856864Z",
+        "deleted": false,
+        "etag": "bwvU4I72KPer3lqdVYb7cA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_206381_01.jpg",
+        "externalBinaryMD5": "1caa630d-a581-9528-da55-6d349d575d5b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-4GM22-E2-0,3M-V3_productimage",
+      "displayIcon": 134,
+      "meta": {
+        "id": 2122084,
+        "guid": "4617f891-2992-4356-aad4-a2c91687b369",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4631,
+        "lastModified": "2021-03-23T09:01:24.7168283Z",
+        "deleted": false,
+        "etag": "cislxYXVp-xiOJHj8I3mgw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224130_01.jpg",
+        "externalBinaryMD5": "1caa630d-a581-9528-da55-6d349d575d5b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-4GM22-E3_productimage",
+      "displayIcon": 134,
+      "meta": {
+        "id": 2122085,
+        "guid": "207f4726-1e11-44f0-b75b-9cc91126e439",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4649,
+        "lastModified": "2021-03-23T09:02:00.0764353Z",
+        "deleted": false,
+        "etag": "8ZuGSCwDc6mgr2OnUUgAEA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_220685_01.jpg",
+        "externalBinaryMD5": "1caa630d-a581-9528-da55-6d349d575d5b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,6-5GS20-E2_productimage",
+      "displayIcon": 140,
+      "meta": {
+        "id": 2122086,
+        "guid": "81932580-137d-43b3-a311-23b3205990d1",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4650,
+        "lastModified": "2021-03-23T09:02:02.2640055Z",
+        "deleted": false,
+        "etag": "lAAKswK9QXvmHesENp9B2g"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_265893_01.jpg",
+        "externalBinaryMD5": "7b29b466-c7e5-2749-ac5b-cc8c2aaf2231"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E0_productimage",
+      "displayIcon": 137,
+      "meta": {
+        "id": 2122087,
+        "guid": "baa290b3-8f9b-4a1e-b20c-e8479101a4ce",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4644,
+        "lastModified": "2021-03-23T09:01:44.6544631Z",
+        "deleted": false,
+        "etag": "fyILEVhtLk8VNZVDzgpBGQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_134078_01.jpg",
+        "externalBinaryMD5": "2f20255e-05a9-9c6f-e30d-492f570d2b70"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E0 PUR_productimage",
+      "displayIcon": 137,
+      "meta": {
+        "id": 2122088,
+        "guid": "1f851dec-6953-48af-b626-f39e1952ac81",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4638,
+        "lastModified": "2021-03-23T09:01:37.0138058Z",
+        "deleted": false,
+        "etag": "7kV8vmh7-g2FShOuYiXpZg"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_195621_01.jpg",
+        "externalBinaryMD5": "2f20255e-05a9-9c6f-e30d-492f570d2b70"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E0-0,3M-V3_productimage",
+      "displayIcon": 137,
+      "meta": {
+        "id": 2122089,
+        "guid": "a3447d9d-23de-493b-b7d3-5c973901e167",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4640,
+        "lastModified": "2021-03-23T09:01:38.185687Z",
+        "deleted": false,
+        "etag": "xHMiPJV1S4l0grj5eeNDsw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224133_01.jpg",
+        "externalBinaryMD5": "2f20255e-05a9-9c6f-e30d-492f570d2b70"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E0-V3_productimage",
+      "displayIcon": 132,
+      "meta": {
+        "id": 2122090,
+        "guid": "d04aad9c-0c10-4400-a7b9-00a06f0f6a1a",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4627,
+        "lastModified": "2021-03-23T09:01:21.044916Z",
+        "deleted": false,
+        "etag": "0raFH7MHYRvcZ3q9CVGREw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_213043_01.jpg",
+        "externalBinaryMD5": "f4b9b193-b1d2-6f3b-b526-df5ab31dd872"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E1_productimage",
+      "displayIcon": 137,
+      "meta": {
+        "id": 2122091,
+        "guid": "e032c133-db67-4315-85e9-6951594887e2",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4633,
+        "lastModified": "2021-03-23T09:01:28.2012368Z",
+        "deleted": false,
+        "etag": "nkCEJkdmTehVlbxfNi9s7w"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_134079_01.jpg",
+        "externalBinaryMD5": "2f20255e-05a9-9c6f-e30d-492f570d2b70"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E2_productimage",
+      "displayIcon": 130,
+      "meta": {
+        "id": 2122092,
+        "guid": "7117504d-3c7e-498c-b42d-abd273cbf4ff",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4655,
+        "lastModified": "2021-03-23T09:02:12.623422Z",
+        "deleted": false,
+        "etag": "JuPHeWN5jpcfGdQjJ41rsw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_053378_01.jpg",
+        "externalBinaryMD5": "42b2605d-7d74-312b-6f6e-73a4ce1a4b1b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E2-0,3M-V3_productimage",
+      "displayIcon": 130,
+      "meta": {
+        "id": 2122093,
+        "guid": "987e8c49-e74f-4d14-a000-e93855791394",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4643,
+        "lastModified": "2021-03-23T09:01:44.5763701Z",
+        "deleted": false,
+        "etag": "bJDeUpKDq80xIuxpQyNZBg"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224134_01.jpg",
+        "externalBinaryMD5": "42b2605d-7d74-312b-6f6e-73a4ce1a4b1b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E2-V3_productimage",
+      "displayIcon": 132,
+      "meta": {
+        "id": 2122094,
+        "guid": "eaca396a-2b4d-4ad2-b0bf-2f4af2ea8fda",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4639,
+        "lastModified": "2021-03-23T09:01:38.0607269Z",
+        "deleted": false,
+        "etag": "4zUlxPsmOU59AT9foYP5Eg"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_213042_01.jpg",
+        "externalBinaryMD5": "f4b9b193-b1d2-6f3b-b526-df5ab31dd872"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4M25-E3_productimage",
+      "displayIcon": 130,
+      "meta": {
+        "id": 2122095,
+        "guid": "3b6562ba-9ab5-4e3f-b009-dffbde0a0c34",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4620,
+        "lastModified": "2021-03-23T09:01:09.8573515Z",
+        "deleted": false,
+        "etag": "wywbbPXPPRHLb5nlku2kJQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_053487_01.jpg",
+        "externalBinaryMD5": "42b2605d-7d74-312b-6f6e-73a4ce1a4b1b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-4S25-E2-0,2M-V3_productimage",
+      "displayIcon": 137,
+      "meta": {
+        "id": 2122096,
+        "guid": "5a126ab0-c168-4b1d-9cec-33128ebda8d1",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4647,
+        "lastModified": "2021-03-23T09:01:54.0454082Z",
+        "deleted": false,
+        "etag": "hcyK4dKEIoajc7q6Uc9BLw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_265892_01.jpg",
+        "externalBinaryMD5": "2f20255e-05a9-9c6f-e30d-492f570d2b70"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E0_productimage",
+      "displayIcon": 124,
+      "meta": {
+        "id": 2122097,
+        "guid": "4da9ba3a-fc36-47a5-b96f-cf03e767b261",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4615,
+        "lastModified": "2021-03-23T09:00:59.919763Z",
+        "deleted": false,
+        "etag": "97mAe9Vym0IAOgWJLuaeDQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_134072_01.jpg",
+        "externalBinaryMD5": "1f1a3cb7-8997-8ebe-44cd-0400795d7a12"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E0-0,3M-V3_productimage",
+      "displayIcon": 124,
+      "meta": {
+        "id": 2122098,
+        "guid": "346ebbea-8f72-4180-9061-43e8c6ff0518",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4653,
+        "lastModified": "2021-03-23T09:02:06.3577546Z",
+        "deleted": false,
+        "etag": "ZdtYjEBH_jfTmLfxGXCSIw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224135_01.jpg",
+        "externalBinaryMD5": "1f1a3cb7-8997-8ebe-44cd-0400795d7a12"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E0-V3_productimage",
+      "displayIcon": 131,
+      "meta": {
+        "id": 2122099,
+        "guid": "2e54009d-da1c-4814-9fa0-3ff22d92f8a1",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4622,
+        "lastModified": "2021-03-23T09:01:12.4823774Z",
+        "deleted": false,
+        "etag": "srRLB2egnCVBCXHKAvTMng"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_134075_01.jpg",
+        "externalBinaryMD5": "a3b733ad-83da-1594-e085-9bcfd5eb5fc1"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E1_productimage",
+      "displayIcon": 124,
+      "meta": {
+        "id": 2122100,
+        "guid": "08172580-909b-4acb-afdc-5692e5e14191",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4642,
+        "lastModified": "2021-03-23T09:01:42.076369Z",
+        "deleted": false,
+        "etag": "IWMZXUcc6c-CiRrTOqHggA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_134076_01.jpg",
+        "externalBinaryMD5": "1f1a3cb7-8997-8ebe-44cd-0400795d7a12"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E2_productimage",
+      "displayIcon": 124,
+      "meta": {
+        "id": 2122101,
+        "guid": "82abc59f-b515-49df-9008-f76dc6a87eee",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4656,
+        "lastModified": "2021-03-23T09:02:16.3422069Z",
+        "deleted": false,
+        "etag": "xAqXOHLTV3utw9gSnd7I0w"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_053491_01.jpg",
+        "externalBinaryMD5": "1f1a3cb7-8997-8ebe-44cd-0400795d7a12"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E2-0,3M-V3_productimage",
+      "displayIcon": 124,
+      "meta": {
+        "id": 2122102,
+        "guid": "1cab8cb1-2219-4e05-a57b-e5670acbcf80",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4634,
+        "lastModified": "2021-03-23T09:01:29.9043608Z",
+        "deleted": false,
+        "etag": "DoJg7ez62kuz6ZZF5JJvJw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224136_01.jpg",
+        "externalBinaryMD5": "1f1a3cb7-8997-8ebe-44cd-0400795d7a12"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E2-V3_productimage",
+      "displayIcon": 131,
+      "meta": {
+        "id": 2122103,
+        "guid": "413d045c-17e8-437b-8ff6-de5a75208889",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4648,
+        "lastModified": "2021-03-23T09:01:56.7170612Z",
+        "deleted": false,
+        "etag": "mnzRCIhRNVoXhsiqVYxyTA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_120377_01.jpg",
+        "externalBinaryMD5": "a3b733ad-83da-1594-e085-9bcfd5eb5fc1"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-5GM25-E3_productimage",
+      "displayIcon": 124,
+      "meta": {
+        "id": 2122104,
+        "guid": "8c7110ed-8bc7-4fef-910b-a290d6feb118",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4625,
+        "lastModified": "2021-03-23T09:01:20.7949127Z",
+        "deleted": false,
+        "etag": "mEAniqMDcXdKbEWsP9qIeA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_053492_01.jpg",
+        "externalBinaryMD5": "1f1a3cb7-8997-8ebe-44cd-0400795d7a12"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB0,8-F141-E2_productimage",
+      "displayIcon": 186,
+      "meta": {
+        "id": 2122105,
+        "guid": "8d39e9ee-939e-4a60-a22c-3fd9eefe9d6c",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4752,
+        "lastModified": "2021-03-23T09:05:05.0466289Z",
+        "deleted": false,
+        "etag": "OkEc1CFmOPer11TqTBK-AQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_231910_01.jpg",
+        "externalBinaryMD5": "faee54e0-b5b8-1cb0-0135-49b011371cf9"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-4M25-E0-V3_productimage",
+      "displayIcon": 169,
+      "meta": {
+        "id": 2122106,
+        "guid": "0023ec26-62bd-46ee-b3e2-24d1789c4d19",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4699,
+        "lastModified": "2021-03-23T09:03:31.9834278Z",
+        "deleted": false,
+        "etag": "a8FDhTJCFxLVG26csh7xAw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_202174_01.jpg",
+        "externalBinaryMD5": "0dfbac6b-7834-a6b6-0af9-0f60e3926e78"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-5GM25-E2_productimage",
+      "displayIcon": 181,
+      "meta": {
+        "id": 2122107,
+        "guid": "01acb573-8615-40e2-bcde-e47cb4bbf7f2",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4720,
+        "lastModified": "2021-03-23T09:04:12.4525305Z",
+        "deleted": false,
+        "etag": "Y4Ddx8VWn7kzwFRcIF8-CQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_202166_01.jpg",
+        "externalBinaryMD5": "1a3485d1-e61a-7b83-6fe8-3bfbafc4770b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-5GM25-E2-V3_productimage",
+      "displayIcon": 158,
+      "meta": {
+        "id": 2122108,
+        "guid": "70696289-aa0a-4985-a44d-d3b2967a2333",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4682,
+        "lastModified": "2021-03-23T09:03:09.8425937Z",
+        "deleted": false,
+        "etag": "DWk2Vu7qn9JLBekGfTrFFA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_204745_01.jpg",
+        "externalBinaryMD5": "eea99613-b07a-59fa-0be6-4c8f539f638f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-5GM25-E3-V3_productimage",
+      "displayIcon": 158,
+      "meta": {
+        "id": 2122109,
+        "guid": "44b80441-3c67-46a9-9103-c907e9a3a0bf",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4718,
+        "lastModified": "2021-03-23T09:04:09.1712357Z",
+        "deleted": false,
+        "etag": "h6X8V_EwMj3NclZGstaTKA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_204746_01.jpg",
+        "externalBinaryMD5": "eea99613-b07a-59fa-0be6-4c8f539f638f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S16-E2_productimage",
+      "displayIcon": 159,
+      "meta": {
+        "id": 2122110,
+        "guid": "46738e80-cb33-4235-bdcd-96eff705cef2",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4712,
+        "lastModified": "2021-03-23T09:03:58.8586468Z",
+        "deleted": false,
+        "etag": "aZwRWo90790oi6XG-ArStg"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_236530_01.jpg",
+        "externalBinaryMD5": "1e737d40-5237-110a-e05c-5047ded9c18e"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S16-E3_productimage",
+      "displayIcon": 159,
+      "meta": {
+        "id": 2122111,
+        "guid": "21419d7f-3b8b-47b3-9745-3bdf7f683cee",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4735,
+        "lastModified": "2021-03-23T09:04:40.6870318Z",
+        "deleted": false,
+        "etag": "8nUzhg02JoYs998oEz2M3g"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_243191_01.jpg",
+        "externalBinaryMD5": "1e737d40-5237-110a-e05c-5047ded9c18e"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S30-E2-0,3M-V3_productimage",
+      "displayIcon": 159,
+      "meta": {
+        "id": 2122112,
+        "guid": "24c20cf0-22ae-4494-a1c9-30d90073eb2e",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4683,
+        "lastModified": "2021-03-23T09:03:11.7332413Z",
+        "deleted": false,
+        "etag": "_ImCEImZeDxWm4-77ShH_Q"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_236531_01.jpg",
+        "externalBinaryMD5": "1e737d40-5237-110a-e05c-5047ded9c18e"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S35-E0_productimage",
+      "displayIcon": 148,
+      "meta": {
+        "id": 2122113,
+        "guid": "ee5ed425-69b1-44eb-b3fe-3bc5a4b809b9",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4668,
+        "lastModified": "2021-03-23T09:02:38.6236033Z",
+        "deleted": false,
+        "etag": "Cs2AWqVq7CPy_ajVAqZNbA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_236516_01.jpg",
+        "externalBinaryMD5": "e23266db-7acc-6ffb-a2c5-a56db15737ed"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S40-E0-V3_productimage",
+      "displayIcon": 147,
+      "meta": {
+        "id": 2122114,
+        "guid": "332bc467-5f48-4eac-bd7c-90be78e46b92",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4751,
+        "lastModified": "2021-03-23T09:05:02.5778625Z",
+        "deleted": false,
+        "etag": "R6fcOTCLFAGSJ7tW1jJS5Q"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_236521_01.jpg",
+        "externalBinaryMD5": "6ad2940f-5518-b1fb-a487-b2838cea7c3a"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S40-E2-V3_productimage",
+      "displayIcon": 147,
+      "meta": {
+        "id": 2122115,
+        "guid": "9bdad2ed-1c53-4652-ae0c-e8f3ab1d460f",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4667,
+        "lastModified": "2021-03-23T09:02:35.6704646Z",
+        "deleted": false,
+        "etag": "_2wW-8bZ4PYa_Kb68CgGUw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_236519_01.jpg",
+        "externalBinaryMD5": "6ad2940f-5518-b1fb-a487-b2838cea7c3a"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-6,5S40-E3-V3_productimage",
+      "displayIcon": 147,
+      "meta": {
+        "id": 2122116,
+        "guid": "874c9b51-c6bc-46ae-83b1-5242058ef37c",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4687,
+        "lastModified": "2021-03-23T09:03:17.2645379Z",
+        "deleted": false,
+        "etag": "7qX1B2tKeTJ73_WfriNlrQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_236517_01.jpg",
+        "externalBinaryMD5": "6ad2940f-5518-b1fb-a487-b2838cea7c3a"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM16-E2_productimage",
+      "displayIcon": 153,
+      "meta": {
+        "id": 2122117,
+        "guid": "d5db1fe5-0138-48ad-9ae7-b959eb6a6066",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4674,
+        "lastModified": "2021-03-23T09:02:47.4987017Z",
+        "deleted": false,
+        "etag": "ChDaTYXeOdNwgQmsfBJzYQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_236534_01.jpg",
+        "externalBinaryMD5": "46b2ce3b-0022-ced0-444b-839dc442a7d9"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM30-E2-C-V1_productimage",
+      "displayIcon": 138,
+      "meta": {
+        "id": 2122118,
+        "guid": "0123b3a4-8412-48a6-b377-be4b1602a16c",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4636,
+        "lastModified": "2021-03-23T09:01:34.1231762Z",
+        "deleted": false,
+        "etag": "oVXc2MSPld2jWyHfoxw8YA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_086787_01.jpg",
+        "externalBinaryMD5": "276262e3-ef6b-59ce-2ca3-431cf09f638a"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E0-V3_productimage",
+      "displayIcon": 191,
+      "meta": {
+        "id": 2122119,
+        "guid": "2fcb40b0-9014-4d24-8096-f4fbb7992738",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4773,
+        "lastModified": "2021-03-23T09:05:43.8438237Z",
+        "deleted": false,
+        "etag": "ZX-1H8YJeGaYQPgK0q9qTQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_197151_01.jpg",
+        "externalBinaryMD5": "38fa5551-d655-d31f-c350-7102349e5c12"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E2-C_productimage",
+      "displayIcon": 116,
+      "meta": {
+        "id": 2122120,
+        "guid": "eafbd668-c577-4897-bd4d-e8f012d3e3c1",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4764,
+        "lastModified": "2021-03-23T09:05:32.3905741Z",
+        "deleted": false,
+        "etag": "pYUsN_6DcrUmmnr_DvXhWg"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_086788_01.jpg",
+        "externalBinaryMD5": "bba3fbe1-840e-8da6-1431-fa48c526673b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E2-C-V3_productimage",
+      "displayIcon": 143,
+      "meta": {
+        "id": 2122121,
+        "guid": "77d3a262-eacb-4fec-a316-bb073b41a90a",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4661,
+        "lastModified": "2021-03-23T09:02:24.9985199Z",
+        "deleted": false,
+        "etag": "AOfd8XcH0tfF7bmFolF6Ng"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_086789_01.jpg",
+        "externalBinaryMD5": "9de9a36c-c4f9-35cb-f7fc-3a58cfced05a"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E2-V3_productimage",
+      "displayIcon": 191,
+      "meta": {
+        "id": 2122122,
+        "guid": "1f6b8fbd-0c3c-457d-95e7-2cc3edf44e2f",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4768,
+        "lastModified": "2021-03-23T09:05:33.9999706Z",
+        "deleted": false,
+        "etag": "tJFGc6OTxqbjRiGs5OQJ3g"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_197152_01.jpg",
+        "externalBinaryMD5": "38fa5551-d655-d31f-c350-7102349e5c12"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E3_productimage",
+      "displayIcon": 133,
+      "meta": {
+        "id": 2122123,
+        "guid": "cce85518-7055-44e2-a6a0-a9af36024be2",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4628,
+        "lastModified": "2021-03-23T09:01:22.4043096Z",
+        "deleted": false,
+        "etag": "p056vvX61ihRSrasUla0NA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_108931_01.jpg",
+        "externalBinaryMD5": "b59f8235-a759-665f-9236-826ca825c7e2"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-E3-V1_productimage",
+      "displayIcon": 136,
+      "meta": {
+        "id": 2122124,
+        "guid": "f4cbcc92-4383-4c07-a053-90e50a57e009",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4632,
+        "lastModified": "2021-03-23T09:01:26.9668231Z",
+        "deleted": false,
+        "etag": "KYm1VWlqBHbQuqubRdUQjA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_121183_01.jpg",
+        "externalBinaryMD5": "d122bf11-cc2f-7482-3887-99bf3768241d"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-Z0_productimage",
+      "displayIcon": 160,
+      "meta": {
+        "id": 2122125,
+        "guid": "c9a111ef-2f11-433a-bcf0-a3568fc4fb57",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4728,
+        "lastModified": "2021-03-23T09:04:26.5463132Z",
+        "deleted": false,
+        "etag": "n4oTb-Oe8rf2HgmBBVmuQw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_088534_01.jpg",
+        "externalBinaryMD5": "c17e38b5-e89e-e22f-100d-fb935d979a25"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM40-Z1_productimage",
+      "displayIcon": 160,
+      "meta": {
+        "id": 2122126,
+        "guid": "c875ada2-1611-4766-9494-b9dffe006dc6",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4685,
+        "lastModified": "2021-03-23T09:03:14.7801315Z",
+        "deleted": false,
+        "etag": "xV2ZTgkjzclRcdGtuw_tTA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_088536_01.jpg",
+        "externalBinaryMD5": "c17e38b5-e89e-e22f-100d-fb935d979a25"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM50-E2_productimage",
+      "displayIcon": 174,
+      "meta": {
+        "id": 2122127,
+        "guid": "8e9332ca-a3be-44e1-aa0a-7c2725110f82",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4706,
+        "lastModified": "2021-03-23T09:03:45.3429061Z",
+        "deleted": false,
+        "etag": "7_-IAN95m4mPBTW6ADu6Xg"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_801374_01.jpg",
+        "externalBinaryMD5": "2c79fdc9-3e97-1e11-5428-71fb73103844"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM50-Z3-V3_productimage",
+      "displayIcon": 170,
+      "meta": {
+        "id": 2122128,
+        "guid": "17db8f4a-93ac-47af-a827-d194f63aa4e9",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4700,
+        "lastModified": "2021-03-23T09:03:34.7647274Z",
+        "deleted": false,
+        "etag": "-wyeNnwZ9LYBDq8I6dexPA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_088535_01.jpg",
+        "externalBinaryMD5": "11ab51f3-8f53-f9b4-7efc-3965362501a3"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GM60-A0_productimage",
+      "displayIcon": 135,
+      "meta": {
+        "id": 2122129,
+        "guid": "b9334c03-4860-400c-bda6-4c67f45cf7bc",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4630,
+        "lastModified": "2021-03-23T09:01:24.1543263Z",
+        "deleted": false,
+        "etag": "bbQelZYEZ8vdc5F5UdEF5A"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_084950_01.jpg",
+        "externalBinaryMD5": "0dd18819-c37d-0b10-1684-ed1f67ebc256"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GS30-E2-T_productimage",
+      "displayIcon": 144,
+      "meta": {
+        "id": 2122130,
+        "guid": "8b5973a5-772f-4ef2-bc4a-4f7da69eacfa",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4663,
+        "lastModified": "2021-03-23T09:02:27.7797971Z",
+        "deleted": false,
+        "etag": "wXf3iWkowZOoEdoXk65Mmw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_236474_01.jpg",
+        "externalBinaryMD5": "e96199e2-95c5-0ec6-7bfb-8f1143b085f2"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-8GS40-E2-T-V3_productimage",
+      "displayIcon": 155,
+      "meta": {
+        "id": 2122131,
+        "guid": "0fb91565-336a-48ac-817f-26be14788314",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4677,
+        "lastModified": "2021-03-23T09:02:55.951887Z",
+        "deleted": false,
+        "etag": "qALjOJ4VhDYrMsk-TZo5KQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_236476_01.jpg",
+        "externalBinaryMD5": "876b981a-7d3a-00ae-4a7c-4642e6923304"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41-E2_productimage",
+      "displayIcon": 154,
+      "meta": {
+        "id": 2122132,
+        "guid": "cf7bf1f4-3e7f-4843-9fd6-e6cf321d5b1c",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4676,
+        "lastModified": "2021-03-23T09:02:51.4362132Z",
+        "deleted": false,
+        "etag": "SCj7l9_-B3dRROLA2hGC2w"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_085651_01.jpg",
+        "externalBinaryMD5": "9bb32bc0-7687-b501-3d18-19e36bf4b9f7"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41-E2-V3_productimage",
+      "displayIcon": 178,
+      "meta": {
+        "id": 2122133,
+        "guid": "85e5ced0-81fc-43cd-8e7d-a9d1e59e26b3",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4737,
+        "lastModified": "2021-03-23T09:04:41.7495849Z",
+        "deleted": false,
+        "etag": "m6ok4DnlsNbZdvfOoWtdlA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_085652_01.jpg",
+        "externalBinaryMD5": "cdfa90b3-0a87-ae2b-bcca-39ecf0b54877"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41-E3_productimage",
+      "displayIcon": 154,
+      "meta": {
+        "id": 2122134,
+        "guid": "3ed98ceb-270e-4a5f-8ca0-09a009ff7549",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4723,
+        "lastModified": "2021-03-23T09:04:15.6087696Z",
+        "deleted": false,
+        "etag": "zVLENP3_MuuffH-PzzsKyw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_085653_01.jpg",
+        "externalBinaryMD5": "9bb32bc0-7687-b501-3d18-19e36bf4b9f7"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41-E3-V3_productimage",
+      "displayIcon": 178,
+      "meta": {
+        "id": 2122135,
+        "guid": "fca370d6-1552-4b5c-bcf9-3b5ea2d61fab",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4715,
+        "lastModified": "2021-03-23T09:04:04.9680667Z",
+        "deleted": false,
+        "etag": "Dc859h4CiVZ9lLCEbGL3UA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_085654_01.jpg",
+        "externalBinaryMD5": "cdfa90b3-0a87-ae2b-bcca-39ecf0b54877"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41A-E2_productimage",
+      "displayIcon": 141,
+      "meta": {
+        "id": 2122136,
+        "guid": "6a55e2f2-2f2b-4e6f-90a9-6726f68efcef",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4652,
+        "lastModified": "2021-03-23T09:02:03.0452293Z",
+        "deleted": false,
+        "etag": "5gk0aOA7Vt9qiNi5BprWNw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_085655_01.jpg",
+        "externalBinaryMD5": "9626bc4e-6cd9-df3d-e3cd-7a50c484010a"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41A-E2-V3_productimage",
+      "displayIcon": 150,
+      "meta": {
+        "id": 2122137,
+        "guid": "a5f9c5df-0033-4133-a1b1-13ec289fb72f",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4753,
+        "lastModified": "2021-03-23T09:05:05.7497496Z",
+        "deleted": false,
+        "etag": "ImAW4fgR9R-QQE3v1kZABw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_085656_01.jpg",
+        "externalBinaryMD5": "57ca3816-f12e-38c2-2ccc-b8ad28aa0881"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41A-E3_productimage",
+      "displayIcon": 141,
+      "meta": {
+        "id": 2122138,
+        "guid": "03a85c30-0426-4776-a291-eac777913533",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4651,
+        "lastModified": "2021-03-23T09:02:02.4045941Z",
+        "deleted": false,
+        "etag": "VCc_tyd8P6Msz60RH1dryA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_085657_01.jpg",
+        "externalBinaryMD5": "9626bc4e-6cd9-df3d-e3cd-7a50c484010a"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F41A-E3-V3_productimage",
+      "displayIcon": 150,
+      "meta": {
+        "id": 2122139,
+        "guid": "82b55027-cf03-421f-8d82-a67f02749bce",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4670,
+        "lastModified": "2021-03-23T09:02:40.2486499Z",
+        "deleted": false,
+        "etag": "6F107fdWlC4b_1KfwrjEeQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_085658_01.jpg",
+        "externalBinaryMD5": "57ca3816-f12e-38c2-2ccc-b8ad28aa0881"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E0_productimage",
+      "displayIcon": 142,
+      "meta": {
+        "id": 2122140,
+        "guid": "bcf1bd54-81a8-4cc4-b6c9-60624d906648",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4760,
+        "lastModified": "2021-03-23T09:05:25.859287Z",
+        "deleted": false,
+        "etag": "UGFA1JpTiM9PcO3t1ioQ_A"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_800000_01.jpg",
+        "externalBinaryMD5": "f12ab0c4-4329-fd38-cd86-7dbcae688877"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E0-0,1M-V3_productimage",
+      "displayIcon": 127,
+      "meta": {
+        "id": 2122141,
+        "guid": "84f89fc7-9013-494e-b6ec-a7036be0a5e6",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4675,
+        "lastModified": "2021-03-23T09:02:47.6393101Z",
+        "deleted": false,
+        "etag": "9JUgGI70_P0FFQ19WtsZwg"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224030_01.jpg",
+        "externalBinaryMD5": "85568175-186c-471b-583d-79a9303a79fa"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E0-0,5M_productimage",
+      "displayIcon": 128,
+      "meta": {
+        "id": 2122142,
+        "guid": "56d14e9c-5d9d-4197-b239-f672b5c61f2f",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4673,
+        "lastModified": "2021-03-23T09:02:46.0611788Z",
+        "deleted": false,
+        "etag": "AVi7jkDUuL8GRB5cOV3Utg"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224006_01.jpg",
+        "externalBinaryMD5": "15098d65-f90e-7ea2-143a-b04bf02a679f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E0-5M_productimage",
+      "displayIcon": 128,
+      "meta": {
+        "id": 2122143,
+        "guid": "a37fbfd9-2165-4b83-97cf-83f2c86d2e10",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4693,
+        "lastModified": "2021-03-23T09:03:22.2489705Z",
+        "deleted": false,
+        "etag": "HbbjG2vmbKatkG0oV4sPiA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_269259_01.jpg",
+        "externalBinaryMD5": "15098d65-f90e-7ea2-143a-b04bf02a679f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E1_productimage",
+      "displayIcon": 142,
+      "meta": {
+        "id": 2122144,
+        "guid": "f3338273-dfba-463d-a203-21f7e7e0400e",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4658,
+        "lastModified": "2021-03-23T09:02:19.1242073Z",
+        "deleted": false,
+        "etag": "xVXLytHAZKa4jwCi-LSpNw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_801106_01.jpg",
+        "externalBinaryMD5": "f12ab0c4-4329-fd38-cd86-7dbcae688877"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E1-0,1M-V3_productimage",
+      "displayIcon": 127,
+      "meta": {
+        "id": 2122145,
+        "guid": "adbc6e2f-7f3d-4e49-adb7-ee4260f6b10b",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4618,
+        "lastModified": "2021-03-23T09:01:08.7635818Z",
+        "deleted": false,
+        "etag": "nhwCfgtntppMapCSZXC6MA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224031_01.jpg",
+        "externalBinaryMD5": "85568175-186c-471b-583d-79a9303a79fa"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E1-0,5M_productimage",
+      "displayIcon": 128,
+      "meta": {
+        "id": 2122146,
+        "guid": "7a6d3599-8d58-49a7-a11c-41aeebbd11f4",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4645,
+        "lastModified": "2021-03-23T09:01:47.2951077Z",
+        "deleted": false,
+        "etag": "-FVNr7NdPFeebCTgLrIJdg"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224007_01.jpg",
+        "externalBinaryMD5": "15098d65-f90e-7ea2-143a-b04bf02a679f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E1-5M_productimage",
+      "displayIcon": 128,
+      "meta": {
+        "id": 2122147,
+        "guid": "793ba42e-4b08-440f-b844-a6fda9fd96b4",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4619,
+        "lastModified": "2021-03-23T09:01:08.7791904Z",
+        "deleted": false,
+        "etag": "nh4OOVW0tXrK8ETTCG9BuA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_269260_01.jpg",
+        "externalBinaryMD5": "15098d65-f90e-7ea2-143a-b04bf02a679f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E2_productimage",
+      "displayIcon": 142,
+      "meta": {
+        "id": 2122148,
+        "guid": "4476b286-876d-4ac4-a101-7045e9754cc2",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4726,
+        "lastModified": "2021-03-23T09:04:22.5931814Z",
+        "deleted": false,
+        "etag": "P8M7IN8QSIb0VhuGfzuo_g"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_800001_01.jpg",
+        "externalBinaryMD5": "f12ab0c4-4329-fd38-cd86-7dbcae688877"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E2-0,1M-V3_productimage",
+      "displayIcon": 127,
+      "meta": {
+        "id": 2122149,
+        "guid": "b4c52b67-4e22-40e5-b1e9-dc856024af00",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4684,
+        "lastModified": "2021-03-23T09:03:12.4363766Z",
+        "deleted": false,
+        "etag": "4fpYcpJiERTl5f2ZxuK5RQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224032_01.jpg",
+        "externalBinaryMD5": "85568175-186c-471b-583d-79a9303a79fa"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E2-0,5M_productimage",
+      "displayIcon": 128,
+      "meta": {
+        "id": 2122150,
+        "guid": "85fee376-e81a-4fec-8732-808ad8c26d07",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4678,
+        "lastModified": "2021-03-23T09:02:58.6706419Z",
+        "deleted": false,
+        "etag": "JNEg8KT0cbAQxSaz2Tqumw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224008_01.jpg",
+        "externalBinaryMD5": "15098d65-f90e-7ea2-143a-b04bf02a679f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E2-2M_productimage",
+      "displayIcon": 128,
+      "meta": {
+        "id": 2122151,
+        "guid": "8f81e191-7561-40ee-9f58-f262dbd73e81",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4659,
+        "lastModified": "2021-03-23T09:02:20.4828615Z",
+        "deleted": false,
+        "etag": "kK7q9OQ3lOZ7W6EW7F7kYA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_228723_01.jpg",
+        "externalBinaryMD5": "15098d65-f90e-7ea2-143a-b04bf02a679f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E2-5M_productimage",
+      "displayIcon": 128,
+      "meta": {
+        "id": 2122152,
+        "guid": "bcd8b776-08d3-4cce-9784-b346ae4206b8",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4660,
+        "lastModified": "2021-03-23T09:02:23.2953824Z",
+        "deleted": false,
+        "etag": "4wMr_ifkTw0lNw23TBtCog"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_269261_01.jpg",
+        "externalBinaryMD5": "15098d65-f90e-7ea2-143a-b04bf02a679f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E3_productimage",
+      "displayIcon": 142,
+      "meta": {
+        "id": 2122153,
+        "guid": "4962db96-3717-4ccd-a301-abbf389f6362",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4746,
+        "lastModified": "2021-03-23T09:04:54.8590241Z",
+        "deleted": false,
+        "etag": "oE2dfVBQ5h3tbmrhtlYhFQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_801107_01.jpg",
+        "externalBinaryMD5": "f12ab0c4-4329-fd38-cd86-7dbcae688877"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E3-0,1M-V3_productimage",
+      "displayIcon": 127,
+      "meta": {
+        "id": 2122154,
+        "guid": "f8741aff-a7f9-4244-aa11-1149825a1017",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4763,
+        "lastModified": "2021-03-23T09:05:31.9530874Z",
+        "deleted": false,
+        "etag": "CItoaYIv9ImQh8NkuNWR7A"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224033_01.jpg",
+        "externalBinaryMD5": "85568175-186c-471b-583d-79a9303a79fa"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E3-0,5M_productimage",
+      "displayIcon": 128,
+      "meta": {
+        "id": 2122155,
+        "guid": "140bad18-f03f-4481-9f8f-e80de3d910e9",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4740,
+        "lastModified": "2021-03-23T09:04:44.5152008Z",
+        "deleted": false,
+        "etag": "ogS7OuIU3JM5ThXtupINGw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224009_01.jpg",
+        "externalBinaryMD5": "15098d65-f90e-7ea2-143a-b04bf02a679f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1,5-F79-E3-5M_productimage",
+      "displayIcon": 128,
+      "meta": {
+        "id": 2122156,
+        "guid": "9d69bbe8-f8a4-4f51-bac0-c0d68fdb83c3",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4665,
+        "lastModified": "2021-03-23T09:02:32.8736009Z",
+        "deleted": false,
+        "etag": "GVralpuJNrF3q-4KIuBjJQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_269262_01.jpg",
+        "externalBinaryMD5": "15098d65-f90e-7ea2-143a-b04bf02a679f"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-3M22-E0_productimage",
+      "displayIcon": 123,
+      "meta": {
+        "id": 2122157,
+        "guid": "53230ae9-f7b0-4c45-a6e8-cc512caf99a9",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4702,
+        "lastModified": "2021-03-23T09:03:37.9834785Z",
+        "deleted": false,
+        "etag": "7aKQ0MJ266DkTvZA0A0iBw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_206382_01.jpg",
+        "externalBinaryMD5": "06ef0b61-f06c-8a1e-b6f1-6a3feedb78d8"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-3M22-E0-0,3M-V3_productimage",
+      "displayIcon": 123,
+      "meta": {
+        "id": 2122158,
+        "guid": "9451714f-d085-430e-afcb-ddcd81a5eae3",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4741,
+        "lastModified": "2021-03-23T09:04:47.5620987Z",
+        "deleted": false,
+        "etag": "9yRp6F9ngb0FfMeDmvlm_g"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224127_01.jpg",
+        "externalBinaryMD5": "06ef0b61-f06c-8a1e-b6f1-6a3feedb78d8"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-3M22-E2_productimage",
+      "displayIcon": 123,
+      "meta": {
+        "id": 2122159,
+        "guid": "93e9b758-2107-4ebe-82f3-778b7f6820f0",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4688,
+        "lastModified": "2021-03-23T09:03:17.4676895Z",
+        "deleted": false,
+        "etag": "ZP3MUXQYh3mUi9AJ8jgu0g"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_206383_01.jpg",
+        "externalBinaryMD5": "06ef0b61-f06c-8a1e-b6f1-6a3feedb78d8"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-3M22-E2-0,3M-V3_productimage",
+      "displayIcon": 123,
+      "meta": {
+        "id": 2122160,
+        "guid": "9e233143-3eb4-4b44-8465-39e008798c21",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4767,
+        "lastModified": "2021-03-23T09:05:33.718713Z",
+        "deleted": false,
+        "etag": "mLxI2unRrsHpCLxN4i9EsQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224128_01.jpg",
+        "externalBinaryMD5": "06ef0b61-f06c-8a1e-b6f1-6a3feedb78d8"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-4GM22-E0_productimage",
+      "displayIcon": 134,
+      "meta": {
+        "id": 2122161,
+        "guid": "e728377f-9df8-451a-82e4-9b088a6a9ea2",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4654,
+        "lastModified": "2021-03-23T09:02:09.8421498Z",
+        "deleted": false,
+        "etag": "3Wu0dIKYmu-plyStJmVnWA"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_206384_01.jpg",
+        "externalBinaryMD5": "1caa630d-a581-9528-da55-6d349d575d5b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-4GM22-E0-0,3M-V3_productimage",
+      "displayIcon": 134,
+      "meta": {
+        "id": 2122162,
+        "guid": "5d2140a4-589a-469b-8fc0-2a5daac78b26",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4662,
+        "lastModified": "2021-03-23T09:02:26.436025Z",
+        "deleted": false,
+        "etag": "R-etTfMcvSBy0QWub0lZXw"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224131_01.jpg",
+        "externalBinaryMD5": "1caa630d-a581-9528-da55-6d349d575d5b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-4GM22-E2_productimage",
+      "displayIcon": 134,
+      "meta": {
+        "id": 2122163,
+        "guid": "244d493e-1c8b-4f11-a882-be4e4970944f",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4635,
+        "lastModified": "2021-03-23T09:01:31.6543734Z",
+        "deleted": false,
+        "etag": "WsPMVBZFZEB9Ia1CLHHI9g"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_206385_01.jpg",
+        "externalBinaryMD5": "1caa630d-a581-9528-da55-6d349d575d5b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-4GM22-E2-0,3M-V3_productimage",
+      "displayIcon": 134,
+      "meta": {
+        "id": 2122164,
+        "guid": "de8d9fb9-241b-4526-990f-f262f8b4b1db",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4730,
+        "lastModified": "2021-03-23T09:04:29.6244749Z",
+        "deleted": false,
+        "etag": "-UZdCuhBd0BhDLvB0BJg-w"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_224132_01.jpg",
+        "externalBinaryMD5": "1caa630d-a581-9528-da55-6d349d575d5b"
+      }
+    },
+    {
+      "displayName": "Inductive sensor NBB1-8GS50-Z0-T_productimage",
+      "displayIcon": 174,
+      "meta": {
+        "id": 2122165,
+        "guid": "e07ec809-3589-4502-8a71-fbea420b622b",
+        "typeRef": 2122055,
+        "type": "productImage",
+        "lastTransaction": 4725,
+        "lastModified": "2021-03-23T09:04:18.4681424Z",
+        "deleted": false,
+        "etag": "eDVQ-VaNjiIEA_M7mfWpYQ"
+      },
+      "props": {
+        "externalBinaryFileExtension": ".jpg",
+        "externalBinaryFileName": "photo_236475_01.jpg",
+        "externalBinaryMD5": "2c79fdc9-3e97-1e11-5428-71fb73103844"
+      }
+    }
+  ]
+}

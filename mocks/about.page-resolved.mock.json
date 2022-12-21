@@ -1,0 +1,76 @@
+{
+  "skip": 0,
+  "count": 1,
+  "more": false,
+  "objs": [
+    {
+      "displayName": "About",
+      "displayIcon": 62,
+      "meta": {
+        "id": 2107804,
+        "guid": "3aeee549-04fc-4eba-87f3-21a4157bf11a",
+        "typeRef": 2101021,
+        "type": "webPage",
+        "lastTransaction": 10462,
+        "lastModified": "2022-12-12T14:05:06.3879108Z",
+        "deleted": false,
+        "etag": "X68oHWLpqx4-I5IMffYCAg"
+      },
+      "props": {
+        "moduleRefs": [
+          2137710
+        ],
+        "seo_nofollow": true,
+        "attributeName": "About",
+        "navigationTitle": "About"
+      }
+    }
+  ],
+  "refs": [
+    {
+      "displayName": "About GRID",
+      "displayIcon": 57,
+      "meta": {
+        "id": 2137710,
+        "guid": "c39c5009-c78d-4f7e-af37-c3e19ffc16eb",
+        "typeRef": 2100992,
+        "type": "mediaTextModule",
+        "lastTransaction": 9921,
+        "lastModified": "2022-09-16T08:06:52.2591074Z",
+        "deleted": false,
+        "etag": "gx33c_XodH_epb91z-iz3w"
+      },
+      "props": {
+        "moduleSize": "large",
+        "htmlContent": {
+          "XML": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Who is behind GRID? The clever and ingenious product forge from the middle of Germany. Currently, we employ well over 100 fictitious employees who face the daily challenge called product development.</p><p>At our locations, countless ideas are developed and just as many are discarded. But from time to time a product finds its way into our portfolio to make a future customer happy. Provided he or she decides in favor of the great products from GRID.</p></div>"
+        },
+        "title": "About GRID",
+        "imageRef": 2137708,
+        "reverse": false,
+        "attributeName": "About GRID"
+      }
+    },
+    {
+      "displayName": "undraw_Team_spirit_re_yl1v.png",
+      "displayIcon": 2580,
+      "meta": {
+        "id": 2137708,
+        "guid": "d355830f-52c5-4e38-bbf7-60635f1e2537",
+        "typeRef": 2124270,
+        "type": "image",
+        "lastTransaction": 10136,
+        "lastModified": "2022-09-19T11:53:05.4961838Z",
+        "deleted": false,
+        "etag": "5WvOHf-35UdoOl-TpjndVg"
+      },
+      "props": {
+        "externalBinaryThumbnail": 2580,
+        "externalBinaryFileExtension": ".png",
+        "externalBinaryMediaType": 2097187,
+        "externalBinaryFileName": "undraw_Team_spirit_re_yl1v.png",
+        "externalBinaryMD5": "07c7acb8-0394-469a-f905-f2ac63b62f11"
+      }
+    }
+  ]
+}

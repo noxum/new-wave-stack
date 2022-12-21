@@ -1,0 +1,21 @@
+{
+	"obj": {
+		"displayName": "Products",
+		"displayIcon": 62,
+		"meta": {
+			"id": 2123805,
+			"guid": "54920b31-1f0a-4dc0-8efe-f37a99eb8d0a",
+			"typeRef": 2101021,
+			"type": "webPage",
+			"lastTransaction": 8622,
+			"lastModified": "2022-08-29T09:04:53.6067692Z",
+			"deleted": false,
+			"etag": "syIpRBpOd3aTdtQtjUEHXA"
+		},
+		"props": {
+			"attributeName": "Products",
+			"navigationTitle": "Products",
+			"moduleRefs": [2123904]
+		}
+	}
+}
